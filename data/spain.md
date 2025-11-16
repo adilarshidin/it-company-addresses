@@ -34,6 +34,9 @@
     +34 981 53 41 36
     Rúa do Progreso, 5, 32005 Ourense, Province of Ourense
 
+    +34 607 59 74 18
+    Pl. San Martín, 10, Centro coworking, 24003 León
+
 - [Train on tech](https://trainontech.com)
 
     +34 613 03 29 02
@@ -73,10 +76,11 @@
     +34 886 31 25 10
     1ª, Rúa de Urzáiz, 38, 1C, 36201 Vigo, Pontevedra
 
-- [MTS Tech Vigo](https://www.mtstech.eu/)
+- [MTS Tech](https://www.mtstech.eu/)
 
     +34 938 54 48 41
     Área Portuaria de Bouzas s/n, 36208 Vigo, Pontevedra
+    Calle San Esteban, 31013 Berriozar, Navarra
 
 - [Welgood Technologies](https://welgood.es/)
 
@@ -219,6 +223,11 @@
 
     Av. Argentina, 132, Gijon-Oeste, 33213 Gijón, Asturias
 
+- [Codectec - Informática - Telefonía](http://www.codectec.com)
+
+    +34 656 69 04 70
+    Av. de la Constitución, 92, bajo, Gijon-Sur, 33207 Gijón, Asturias
+
 - [eVoost AI Spain Tech Hub](https://www.evoost.ai/)
 
     Plazoleta Florencio Rodríguez, 2, 7º, Centro, 33206 Gijón, Asturias
@@ -238,4 +247,189 @@
     +34 985 29 23 02
     Calle Fernández de Oviedo, 28, BAJO, 33012 Oviedo, Asturias
 
-- []
+- [Seidor Tech](http://www.seidortech.es/)
+
+    +34 985 27 61 62
+    C. González Besada, 31, 33007 Oviedo, Asturias
+
+- [Lessthan3](http://lt3.io/)
+
+    +34 984 26 30 80
+    C. Schultz, 5, 3-B-1, 33003 Oviedo, Asturias
+
+- [Uktena Tech, S.L.](https://uktena.ai/)
+
+    +34 606 79 06 61
+    Av. de los Castros, 46, 206, 39005 Santander, Cantabria
+
+- [Simpla Tech](https://simpla-tech.com/)
+
+- [TECH friendly](https://techfriendly.es)
+
+    +34 674 70 67 10
+    Autonomia Kalea, 26, 1º, Abando, 48010 Bilbao, Biscay
+
+- [Cistec Technology](http://www.cistec.es/)
+
+    +34 944 69 29 39
+    Mazarredo Zumarkalea, 47, Abando, 48009 Bilbao, Biscay
+
+    +34 948 31 81 80
+    Polígono Iruregaña, 71, 3o, 31195 Aizoáin, Navarra
+
+- [BETWEEN Technology - Bilbao](https://www.between.tech/)
+
+    +34 946 54 05 81
+    Autonomia Kalea, 26, planta 6-D, Escalera Derecha, Abando, 48012 Bilbao, Biscay
+
+- [Ludus Global](https://ludusglobal.com/)
+
+    +34 946 12 22 41
+    Poza Lizentziatuaren Kalea, 55, 1º derecha, Abando, 48013 Bilbao, Biscay
+
+- [Zerua Tech](https://www.zerua.tech/)
+
+    +34 684 71 35 30
+    Diego Lopez Haroko Kale Nagusia, 1, Abando, 48001 Bilbao, Bizkaia
+
+- [Active Business & Technology](https://grupoactive.es/)
+
+    +34 946 41 51 19
+    Mamariga Kalea, 7b, 48980 Santurtzi, Biscay
+
+- [Kevo Technologies](http://kevo.ai/)
+
+    +34 943 57 20 00
+    Iurrita Bidea, 13, Oficina 25, 2º planta, 20180 Altzibar, Gipuzkoa
+
+- [ALOR Tech](https://alor-tech.com/)
+
+    +34 943 12 25 68
+    Zuatzu Kalea, 5, 20018 Donostia / San Sebastián, Gipuzkoa
+
+- [Teknei Information Technology](http://www.teknei.com/)
+
+    +34 943 43 30 18
+    De Pinares Plaza, 1, 3ª planta, 20001 Donostia / San Sebastián, Gipuzkoa
+
+- [LBLaction - Tech Solutions](http://www.lblaction.com/)
+
+    +34 948 06 38 42
+    Polígono Industrial Noáin-Esquiroz, calle O N2 Of. 304, 31110 Noáin
+
+- [ZEO Technology](https://zeotechnology.com/)
+
+    +34 948 80 60 53
+    Edificio Berroa, 19, 31192 Tajonar, Navarra
+
+- [Lizaur Sao Tecnología](https://www.lizaursaotecnologia.es/es/)
+
+    +34 606 67 16 39
+    Pol. Ind. Mutilva Baja, Calle J Nave 27, 31192 Mutilva, Navarra
+
+- [EVEL New Technologies](https://www.evelnt.com/)
+
+    +34 948 10 41 13
+    Calle del Pol. Ind. Berroa, 19, Oficina 501, 31192 Tajonar, Navarra
+
+- [Pranan Technologies](http://www.pranan.com/)
+
+    +34 948 98 32 11
+    Calle Madres de la Plaza de Mayo, 44, 2º ofic. 3, 31013 Pamplona, Navarra
+
+- [Ips Technology Ponferrada](https://www.ipsleon.com/)
+
+    +34 659 57 02 04
+    Av. Valdés, 31, 24400 Ponferrada, León
+
+- [tComet](http://www.tcomet.com/)
+
+    +34 987 10 06 00
+    Av. de América, 78, 24401 Ponferrada, León
+
+- [Beep - Meetink Point](https://www.beep.es)
+
+    +34 988 34 74 42
+    Rúa Peña Trevinca, 6, 32300 O Barco, Province of Ourense
+
+- [Carrefour](https://www.carrefour.es)
+
+    +34 987 44 71 37
+    Av. de la Constitución, 2, 24400 Ponferrada, León
+
+- [Lucus Tech](https://lucus-tech.com)
+
+    +34 667 49 11 33
+    Av. de Madrid, 75, 27002 Lugo
+
+- [Whale Tech Analytics](https://whaleanalytics.tech/)
+
+    Cam. Oncina, 26, 24391 León
+
+- [CARTIF Technology Center](http://www.cartif.es/)
+
+    +34 983 54 65 04
+    Av. Francisco Vallés, 4, 47151 Boecillo, Valladolid
+
+- [LAB TECH Laboratorio Tecnológico de Contenidos Digitales de Castilla y León](https://www.ideva.es/)
+
+    +34 983 24 74 01
+    https://www.ideva.es/
+
+- Arges Tech
+
+    +34 983 39 47 63
+    C. del Santuario, 20, 47002 Valladolid
+
+- [Luce Innovative Technologies (Luce IT)](https://www.luceit.com/)
+
+    +34 983 26 37 58
+    Av. del Euro, 7, 47009 Valladolid
+
+- [SEGULA Technologies](https://www.segulatechnologies.com/es/)
+
+    +34 983 30 77 84
+    Pl. del Quinto Centenario, 47008 Valladolid
+
+- Lemur in the Box S.L.
+
+    +34 912 86 82 20
+    C. de Pilar Miró, 1, 2ª planta, 47008 Valladolid
+
+- [Grain Technology Center Castilla y Leon - CETECE](https://www.cetece.net/)
+
+    +34 979 16 53 27
+    Av Madrid, s/n, 34004 Palencia
+
+- [Ergos Technology S.L.](http://www.ergostechnology.es/)
+
+    +34 983 84 97 18
+    C. Pino Negral, 13, 47162 Aldeamayor de San Martín, Valladolid
+
+- [Wolfsa Tech S.L.](http://www.wolfsa.es/)
+
+    +34 983 50 78 66
+    C. Plata, 65, 47012 Valladolid
+
+- [Bintech Solutions, s.l.](http://www.bintech.es/)
+
+    +34 947 05 86 96
+    C. Pavoa, 5, 09400 Aranda de Duero, Burgos
+
+- [NG Branch Technology Spain](http://ng-branch-technology.com/)
+
+    C. de Santiago López González, 13, nave 4, 47197 Valladolid
+
+- [Rapture Games](http://rapture-games.com/)
+
+    C. de Panaderos, 59, 47004 Valladolid, Spain
+
+- [Cognizant Technology Solutions Valladolid](https://www.cognizant.com/es/es)
+
+    +34 910 31 66 30
+    C. Juan de Herrera, 15, 47151 Boecillo, Valladolid
+
+- [DATA TECHNOLOGY CONSULTING (DTC)](https://dtcvalladolid.es)
+
+    +34 983 30 76 00
+    C. Sta. María, 17, 1° Derecha, 47001 Valladolid
