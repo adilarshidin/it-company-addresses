@@ -37,31 +37,31 @@
     +34 607 59 74 18
     Pl. San Martín, 10, Centro coworking, 24003 León
 
-- [Train on tech](https://trainontech.com)
+- [Train on tech](https://trainontech.com/)
 
     +34 613 03 29 02
     Rúa da Agriña do Meixonfrío, 15705 Santiago de Compostela, A Coruña
 
-- [Brios Solucións Tecnolóxicas S.L.](http://www.brios.tech)
+- [Brios Solucións Tecnolóxicas S.L.](http://www.brios.tech/)
 
     Rua das Hedras, 1, 15895 O Milladoiro, A Coruña
 
-- [OpSeeker Tech](https://opseeker.com)
+- [OpSeeker Tech](https://opseeker.com/)
 
     +34 638 47 35 34
     Rúa Hedras, 26, 15895 Ames, A Coruña
 
-- [Entercom Technologies](http://entercom.es)
+- [Entercom Technologies](http://entercom.es/)
 
     +34 986 55 96 75
     Ctra da Bouza 1, 36645 Valga, Pontevedra
 
-- [Cocodin Technology](https://www.cocodin.com)
+- [Cocodin Technology](https://www.cocodin.com/)
 
     +34 981 93 63 21
     Camino Adrán, 2, 15866, A Coruña
 
-- [NLPgo Technologies, S.L.](https://www.nlpgo.com)
+- [NLPgo Technologies, S.L.](https://www.nlpgo.com/)
 
     +34 881 18 30 22
     portal 2, bajo 3B, 15280 Brión, A Coruña
@@ -181,7 +181,7 @@
     +34 988 52 15 00
     Edificio Finca Sevilla, Rúa Ponte Sevilla, nº 2, 32005 Ourense
 
-- [AMMi Technologies](https://ammitechnologies.com)
+- [AMMi Technologies](https://ammitechnologies.com/)
 
     +34 988 38 37 77
     Rúa Ricardo Martín Esperanza, 25, 32901 Polígono San Cibrao, Ourense
@@ -205,7 +205,7 @@
     +34 985 98 00 20
     Parque Tecnológico de Asturias, Edificio IDEPA, 33428, Asturias
 
-- [DXC Technology](http://www.dxc.technology/es)
+- [DXC Technology](http://www.dxc.technology/es/)
 
     Parque Empresarial del, Av. de la Siderurgia, 15, 33417 Avilés, Asturias
 
@@ -223,7 +223,7 @@
 
     Av. Argentina, 132, Gijon-Oeste, 33213 Gijón, Asturias
 
-- [Codectec - Informática - Telefonía](http://www.codectec.com)
+- [Codectec - Informática - Telefonía](http://www.codectec.com/)
 
     +34 656 69 04 70
     Av. de la Constitución, 92, bajo, Gijon-Sur, 33207 Gijón, Asturias
@@ -264,7 +264,7 @@
 
 - [Simpla Tech](https://simpla-tech.com/)
 
-- [TECH friendly](https://techfriendly.es)
+- [TECH friendly](https://techfriendly.es/)
 
     +34 674 70 67 10
     Autonomia Kalea, 26, 1º, Abando, 48010 Bilbao, Biscay
@@ -347,17 +347,17 @@
     +34 987 10 06 00
     Av. de América, 78, 24401 Ponferrada, León
 
-- [Beep - Meetink Point](https://www.beep.es)
+- [Beep - Meetink Point](https://www.beep.es/)
 
     +34 988 34 74 42
     Rúa Peña Trevinca, 6, 32300 O Barco, Province of Ourense
 
-- [Carrefour](https://www.carrefour.es)
+- [Carrefour](https://www.carrefour.es/)
 
     +34 987 44 71 37
     Av. de la Constitución, 2, 24400 Ponferrada, León
 
-- [Lucus Tech](https://lucus-tech.com)
+- [Lucus Tech](https://lucus-tech.com/)
 
     +34 667 49 11 33
     Av. de Madrid, 75, 27002 Lugo
@@ -429,7 +429,7 @@
     +34 910 31 66 30
     C. Juan de Herrera, 15, 47151 Boecillo, Valladolid
 
-- [DATA TECHNOLOGY CONSULTING (DTC)](https://dtcvalladolid.es)
+- [DATA TECHNOLOGY CONSULTING (DTC)](https://dtcvalladolid.es/)
 
     +34 983 30 76 00
     C. Sta. María, 17, 1° Derecha, 47001 Valladolid
