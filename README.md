@@ -8,7 +8,7 @@ All information here is gathered via Google Maps API using [SerpAPI](https://ser
 
 The search queries used: `tech`.
 
-The queries were used for a list of town in each of the countries.
+The queries were used for a list of town in each of the countries (alphabetically).
 
 * Spain:
 
@@ -38,7 +38,54 @@ The queries were used for a list of town in each of the countries.
     - Linares
     - Ubeda
     - Almeria
-    - 
+    - Lorca
+    - Cartagena
+    - Murcia
+    - Elche
+    - Alicante
+    - Denia
+    - Benidorm
+    - Gandia
+    - Valencia
+    - Teruel
+    - Castellon de la Plana
+    - Ibiza
+    - Palma
+    - Soller
+    - Alcudia
+    - Vigo
+    - Pontevedra
+    - Ourense
+    - Santiago de Compostela
+    - A Coruna
+    - Lugo
+    - Ponferrada
+    - Leon
+    - Oviedo
+    - Aviles
+    - Benavente
+    - Zamora
+    - Palencia
+    - Valladolid
+    - Soria
+    - Burgos
+    - Logrono
+    - Vitoria-Gasteiz
+    - Bilbao
+    - Santander
+    - Donostia / San-Sebastian
+    - Pamplona
+    - Zaragoza
+    - Huesca
+    - Lleida
+    - Reus
+    - Tarragona
+    - Terrassa
+    - Barcelona
+    - Lloret de Mar
+    - Girona
+    - Santa Cruz de Tenerife
+    - Las Palmas de Gran Canaria
 
 ## Supported countries
 

@@ -43,6 +43,15 @@
     +34 981 53 41 36
     Parque Científico Tecnológico de Huelva, C. Caucho, nº1, 21110 Aljaraque, Huelva
 
+    +34 902 99 80 05
+    Sita en la Planta 4ta del Edificio Torre Dimovil, Av. Juan Carlos I, 59, Oficina nº 1, 30100 Murcia
+
+    +34 971 75 03 24
+    Edificio Mapfre, Camí dels Reis, 308, 2 P, Norte, 07010 Palma, Balearic Islands
+
+    +34 617 90 18 84
+    Av. Francisco la Roche, nº 33, Planta baja, 38001 Santa Cruz de Tenerife
+
 6. [Train on tech](https://trainontech.com/)
 
     +34 613 03 29 02
@@ -127,6 +136,15 @@
 
     +34 981 13 88 47
     Avenida Terceira, Parcela H1, 15190 Polígono de Pocomaco, A Coruña
+
+    +34 881 88 59 17
+    C. Padre Rodes, 14, 03600 Elda, Alicante
+
+    +34 965 39 85 25
+    C. de la Libra, 117, 03114 Alicante
+
+    +34 964 34 00 27
+    C. Juan Pablo II, 6, Puerta A, 12003 Castellón de la Plana, Castellón
 
 23. [Joan Dev & Tech](https://joandev.com/)
 
@@ -289,10 +307,13 @@
     +34 948 31 81 80
     Polígono Iruregaña, 71, 3o, 31195 Aizoáin, Navarra
 
-55. [BETWEEN Technology - Bilbao](https://www.between.tech/)
+55. [BETWEEN Technology](https://www.between.tech/)
 
     +34 946 54 05 81
     Autonomia Kalea, 26, planta 6-D, Escalera Derecha, Abando, 48012 Bilbao, Biscay
+
+    +34 932 78 00 54
+    C. de Menéndez y Pelayo, 5, El Llano del Real, 46010 Valencia
 
 56. [Ludus Global](https://ludusglobal.com/)
 
@@ -578,6 +599,9 @@
     +34 927 74 10 06
     Av. de las Arenas, Oeste, 10005 Cáceres
 
+    +34 971 31 80 88
+    Carrer Mar Mediterrània, 1, 07813 Puig d'en Valls, Illes Balears
+
 110. [Bjäland Technologies | Soluciones tecnológicas](https://bjaland.co/)
 
     +34 919 93 01 47
@@ -630,6 +654,9 @@
 
     +34 692 98 65 30
     Av. de Andalucía, 25, 23005 Jaén
+
+    +34 971 39 81 40
+    C/ d'Aragó, 105, 07800 Ibiza, Balearic Islands
 
 116. [Trovant Technology](http://www.trovant.es/)
 
@@ -694,6 +721,12 @@
 
     +34 876 53 86 43
     Av. de los Pirineos, 7, Planta 1, 28703 San Sebastián de los Reyes, Madrid
+
+    +34 876 53 86 43
+    Carrer de Fontanars dels Alforins, 51, Patraix, 46014 Valencia
+
+    +34 876 53 86 43
+    C. Asalto, 23, Casco Antiguo, 50002 Zaragoza
 
 128. [E-PISTEME.TECH](https://e-pisteme.tech/)
 
@@ -981,6 +1014,9 @@
     +34 692 93 73 16
     Av. de España, 21, Centro-Casco Antiguo, 10002 Cáceres
 
+    +34 653 70 05 00
+    Av. d'Espanya, 9, 07800 Eivissa, Illes Balears
+
 187. [Drenpos Tech, S.L.](https://www.drenpos.com/)
 
     +34 640 31 52 59
@@ -1099,6 +1135,9 @@
 
     +34 958 39 72 99
     poligono industrial iznamontes, M.1G-B-2, 18550 Iznalloz, Granada
+
+    +34 964 10 00 00
+    Carrer Oroval, 17, 12539 Les Alqueries, Castellón
 
 210. [OPINATOR Albacete](https://web.opinator.com/)
 
@@ -1368,10 +1407,19 @@
 
     C. Hoyo de Esparteros, 3, Distrito Centro, 29005 Málaga
 
-268. [WAU Technologies Málaga](https://wautechnologies.com/)
+268. [WAU Technologies](https://wautechnologies.com/)
 
     +34 674 78 94 09
     Calle Cortina del Muelle, 11, 1ª planta, Distrito Centro, 29015 Málaga
+
+    +34 968 92 97 70
+    Senda de Granada, 133, 1, 30110 Churra, Murcia
+
+    +34 865 88 80 80
+    Periodista Tirso Marín, 16, Local 2A, 03540 Alicante
+
+    +34 968 92 97 70
+    Avinguda de Jean Claude Combaldieu, s/n, 03008 Alicante
 
 269. [U2 LAB - Smart Tech Solutions](https://www.es.u2-lab.com/)
 
@@ -1570,6 +1618,9 @@
     +34 694 44 01 84
     Av. de Almeria, 1, 04639 Turre, Almería
 
+    +34 850 99 14 89
+    C. Sol, 2, 04661 Zurgena, Almería
+
 309. [CheckTheMeds Technology S.L.](http://www.checkthemeds.com/)
 
     +34 950 57 01 08
@@ -1600,4 +1651,867 @@
     +34 950 57 02 03
     C. Bastidor, 15, 04700 El Ejido, Almería
 
-315. 
+315. [Tech Fruit Natural, S.A.](https://fruitandtech.com/)
+
+    +34 968 27 82 00
+    Ctra. Madrid, km 390, 30100 Espinardo, Murcia
+
+316. [Tech Bike Area](http://www.techbikearea.com/)
+
+    +34 968 63 97 51
+    Av. Europa, 22, 30840 Alhama de Murcia, Murcia
+
+317. [Tienda Tecno - Ordenadores y Móviles](https://tiendatecno.es/)
+
+    +34 968 31 74 36
+    C. del Pilar, 7, Bajo 5, 30004 Murcia
+
+318. [SH Informática](http://www.shinform.net/)
+
+    +34 615 64 70 58
+    Avda 28 de Febrero, s/n Detras de Repuestos, 04800 Albox, Almería
+
+319. [Energy Tech Consultoria Energetica Slu](http://www.energy-tech.es/)
+
+    +34 722 58 49 33
+    C. de Molina de Segura, 5, 0, 30007 Murcia
+
+320. [Bitec - Business Intelligence Technology](http://www.bitec.es/)
+
+    +34 968 24 32 35
+    P.º Joaquín Garrigues Walker, 14, 30007 Murcia
+
+321. [Codiant Tech](https://www.codiant.tech/)
+
+    +34 686 10 55 59
+    Pl. Circular, 30008 Murcia
+
+322. [Sphaira Tech](https://sphairatech.com/)
+
+    +34 623 91 17 72
+    C. Federico Garcia Lorca, 3, 30009 Murcia
+
+323. [BOCARÉ TECH GENOMIC](https://bocarecosmetics.com/)
+
+    +34 868 68 14 09
+    Pol. Ind. Las Salinas, Av. Grecia, Parc. 5.1, 30840 Alhama de Murcia, Murcia
+
+324. [SeniTech Satellite Technology](http://www.satnavupdatestore.co.uk/)
+
+    A.P. de CORREOS, 103, 30890 Puerto Lumbreras, Murcia
+
+325. [Nawter Tech](https://nawter.com/)
+
+    +34 868 02 29 05
+    Parque Industrial De Alhama, Av. Alemania, 30840 Alhama de Murcia, Murcia
+
+326. [ICON tech](https://www.icontech.es/)
+
+    +34 865 68 84 40
+    C. Caballero de Rodas, 70, Local 3, 03182 Torrevieja, Alicante
+
+327. [Alleria Dev & Tech](http://www.alleria.es/)
+
+    +34 679 77 27 76
+    C/ María Humildad Jiménez García, 18, 03183 Torrevieja, Alicante
+
+328. [Futura Teck de Murcia S.L.U.](https://futura.es/)
+
+    +34 968 90 23 00
+    Av. Alto de las Atalayas, 18, 30110 Cabezo de Torres, Murcia
+
+329. [InfiniTech](https://www.infinitechspain.com/)
+
+    +34 711 05 39 43
+    CC Sophia, C. Isla Formentera, Local 10, 03189 La Regia, Alicante
+
+330. [E-life Techs](https://elifetechs.com/)
+
+    +34 968 29 91 67
+    Av. Juan Carlos I, 43, Planta 7 puerta B, 30100 Murcia
+
+331. [CCI TORREVIEJA](https://ccitorrevieja.com/)
+
+    +34 966 11 26 09
+    C. Ramón Gallud, 76, 03181 Torrevieja, Alicante
+
+332. [The IT Place](https://www.theitplace.es/)
+
+    +34 966 84 47 88
+    Centro Comercial Rioja, C. Manuel de Falla, Local 18, 03189 Dehesa de Campoamor, Alicante
+
+333. [Quesada Tech](http://quesadatech.com/)
+
+    +34 966 72 16 99
+    C. Turismo, 1, 03170 Cdad. Quesada, Alicante
+
+334. [TECH BIOMECHANICS](http://techcyclist.es/)
+
+    +34 649 19 97 47
+    Carrer Conrado del Campo, 86, local B, 03204 Elche, Alicante
+
+335. [Zanachi Tech Store](http://zanachi.com/)
+
+    +34 965 48 74 56
+    calle Francisco Juan Follana, 58, C. Francisco J Follana, 58, 03340 Albatera, Alicante
+
+336. [All Tech Plus](https://all-tech-plus.com/)
+
+    +34 634 34 39 05
+    Calle Topacio, Urb. Benimar II Manzana QSD 2 Buzon 33, 03170 Rojales Alicante
+
+337. [Verne TECH, antiguo Grupo Azeta](https://www.vernegroup.com/)
+
+    +34 881 88 59 17
+    C. Padre Rodes, 14, 03600 Elda, Alicante
+
+338. [Quetebe - Tecnología, Fibra y Energía](https://quetebe.com/)
+
+    +34 965 99 99 17
+    Av. Federíco García Lorca, 101, 03178 Benijófar, Alicante
+
+339. [InfiniTech](https://www.infinitechspain.com/)
+
+    +34 711 05 39 43
+    CC Sophia, C. Isla Formentera, Local 10, 03189 La Regia, Alicante
+
+340. [EvotechPro](https://evotechpro.es/)
+
+    +34 622 49 82 47
+    C. Fulgencio Miñano, 12, 30500 Molina de Segura, Murcia
+
+341. [TECH & COM ALICANTE](http://techandcom.org/)
+
+    +34 965 27 00 58
+    Carrer Lope de Vega, 54, Bajo, Local 2, 03690 San Vicente del Raspeig, Alicante
+
+342. [Solarea TECH](https://www.solareatech.com/)
+
+    +34 669 34 86 07
+    Calle Artesanos, 12, 03690 San Vicente del Raspeig, Alicante
+
+343. [Konsultores Tech](https://konsultores.tech/)
+
+    +34 865 44 30 01
+    Av. del Dr. Jiménez Díaz, 7, 03005 Alicante
+
+344. [MindDen Soft Tech](http://www.mindden.com/)
+
+    +34 965 34 97 70
+    Av. Salamanca, 14, 03005 Alicante
+
+345. [La Siesta Technologies](http://lasiesta.tech/)
+
+    Pl. de la Mercè, 7, 5ºIzq, 03202 Elche, Alicante
+
+346. [prokubix tech](http://prokubix.com/)
+
+    +34 966 30 60 56
+    Pl. Navarro Rodrigo, 4, 03007 Alicante
+
+347. [Alien PCs](http://www.alienpcs.es/)
+
+    +34 677 63 37 00
+    Avenida de Benidorm 11, Buzon, 44, 03792 Parcent, Alicante
+
+348. [ZIP TECHNOLOGY CUSTOMIZED](http://zipperztc.com/)
+
+    +34 622 17 72 04
+    Calle Serverino Albarracín n. 8 Offices Incub, 03804, Alicante
+
+349. [MITTEN TECH](https://www.mitten.es/)
+
+    +34 962 97 86 91
+    Carrer del Calvari, 29, 46612 Corbera, Valencia
+
+350. [Telitec](http://www.telitec.com/)
+
+    +34 965 74 34 73
+    Ctra. Moraira a Calpe, 82B, 03724 Teulada, Alicante
+
+351. [Erum Tech Lab (Innovación)](https://erumgroup.com/)
+
+    +34 965 33 08 17
+    Carretera Banyeres, Km.1,5, 03802 Alcoi, Alicante
+
+352. [NMA NAUTIC TECH SLU](http://www.nmanautica.com/)
+
+    +34 966 29 22 71
+    Carrer de Xàbia, 1, 03700 Dénia, Alicante
+
+353. [HUMAN TECHNOLOGIES - Tailored Services](http://www.ht-stores.net/)
+
+    +34 962 28 37 27
+    Carrer Honorat Joan, 6, 46800 Xàtiva, Valencia
+
+354. [Twizy-tech moraira](https://www.twizytech-moraira.com/)
+
+    +34 652 24 80 45
+    C. Alhama, 16, 03724 Teulada, Alicante
+
+355. [Tumovil Albir](https://tumovilalbir.es/)
+
+    +34 604 36 83 98
+    Camí Vell d'Altea, 34, local 4, 03581 L'Albir, Alicante
+
+356. [Smart Tecnològic](http://www.smarttecnologic.com/)
+
+    +34 966 46 00 64
+    Carrer Príncep d'Astúries, 46, 03730 Xàbia, Alicante
+
+357. Torres Technologies
+
+    +34 656 25 14 38
+    Carrer de la Reina, 21, 2, 4, 46800 Xàtiva, Valencia
+
+358. [Code X Technologies S.L.](http://www.codex-tech.com/)
+
+    +34 661 61 93 64
+    Camí Carrasqueral, 7, 46240 Carlet, Valencia
+
+359. [TopTechFIX](http://www.toptechfix.com/)
+
+    +34 622 68 23 50
+    Carrer Cervantes, 1, 03770 El Verger, Alicante
+
+360. [Lasertech Javea](https://lasertech.es/)
+
+    +34 620 29 84 18
+    Camí de les Barranqueres, 2, 03737 Xàbia, Alicante
+
+361. [HIGH TECH LUBRICANT OIL SL](http://www.htlubricantoils.com/)
+
+    +34 963 68 69 74
+    Av. de la Foia, 10, 46440 Almussafes, Valencia
+
+362. [Tech&Process, S.L.](http://www.oqotech.com/)
+
+    +34 902 99 51 29
+    C. Sant Tomàs, 2, 03801 Alcoi, Alicante
+
+363. [Fitness Tech](http://www.fitnesstech.es/)
+
+    +34 960 10 63 94
+    Carrer Poniente, 2, Oficina 39 y 40, 46394 Riba-roja de Túria, Valencia
+
+364. [Rvision Tech](https://www.rvisiontech.com/)
+
+    +34 961 02 95 20
+    Carrer Pintor Joaquim Sorolla, 12, bajo, 46120 Alboraya, Valencia
+
+365. [Cad Tech Iberica S.A.](http://www.cadtech.es/)
+
+    +34 963 47 68 51
+    Calle Narciso Monturiol, 5, Edificio SGS Planta 2 Parque Tecnológico Paterna, 46980 Paterna
+
+366. [Motos Tech](https://motos.tech/)
+
+    +34 601 18 91 97
+    Av. de l'Oest, 26, 4, Ciutat Vella, 46001 Valencia
+
+367. [BAUUMAN TECH, S.L.](http://www.bauuman.com/)
+
+    +34 663 24 53 24
+    C/ BAJO VINALOPÓ, S/N, Ctra. Madrid Valencia Nac II, KM. 346, 3, 46920, Valencia
+
+368. [AIberia Tech](https://aiberiatech.com/)
+
+    Av. Mare Nostrum, 46120 Alboraya, Valencia
+
+369. [NP Tech.](https://salvanpardo.ueniweb.com/)
+
+    +34 684 08 56 38
+    Ps, 10, 46389 Turís, Valencia
+
+370. [Kenmei Technologies](http://www.kenmei.ai/)
+
+    +34 960 07 01 72
+    Parque Empresarial Táctica, C. del Corretger, 21, 46980 Paterna, Valencia
+
+371. [Active Business & Technology](https://grupoactive.es/)
+
+    +34 960 08 92 31
+    SKECHERS Showroom Valencia, Av. de les Corts Valencianes, 58, Oficina 209, Poblados del Oeste, 46015 Valencia
+
+372. [Baintex Technologies SL](https://www.baintex.com/)
+
+    +34 659 62 48 31
+    Avinguda de Serra, 206, 46130 Massamagrell, Valencia
+
+373. [GFT Technologies IT Consulting, S.L.U.](https://www.gft.com/es/)
+
+    +34 963 01 25 41
+    C/ de Roger de Llòria, 19, planta 5ª, Ciutat Vella, 46002 Valencia
+
+374. [Vidext Technologies S.L.](https://www.vidext.io/)
+
+    +34 614 32 05 22
+    Carrer de Martí l'Humà, 1, Extramurs, 46008 Valencia
+
+375. [C-Tech Composites](https://www.c-techcomposites.com/)
+
+    +34 964 01 11 73
+    Av. España, 16B, 12180 Cabanes, Castelló
+
+376. [Wisclic Tech](https://wisclic.com/)
+
+    +34 642 33 79 59
+    Jaume I University, Espaitec 2, Avinguda de Vicent Sos Baynat, s/n, 12006 Castellón de la Plana, Castellón
+
+377. [DFLabs Tech Solutions SL](https://orbys.eu/)
+
+    +34 964 24 78 15
+    Carrer Valencia-late, 4, 12539 Castellón
+
+378. Zesna Technology
+
+    +34 617 97 23 97
+    Carrer de Ruiz Vila, 35, 12001 Castellón de la Plana, Castellón
+
+379. [Tikka Eivissa S.L.](https://www.tikka.es/)
+
+    +34 971 30 16 38
+    Carrer d'Atzaró, 18, 07800 Ibiza, Balearic Islands
+
+380. [SOLAR TECH IBIZA](http://www.solaribiza.es/)
+
+    +34 637 23 35 16
+    C Isidoro Macabich, 1, 07816 Sant Rafel, Illes Balears
+
+381. [Tienda Informática Ibiza - Online](https://www.tiendainformaticaibiza.com/)
+
+    +34 628 53 79 63
+    Sólo recogida de pedidos, Carrer d'Extremadura, 16, 1-A, 07800 Ibiza, Balearic Islands
+
+382. [iBiMATiK](https://www.ibimatik.com/)
+
+    +34 971 34 68 96
+    Carrer des Caló, 23, 07829 Cala de Bou, Balearic Islands
+
+383. [APP Informática Eivissa](https://www.appinformatica.com/)
+
+    +34 605 49 50 80
+    Carrer d'Agapit Llobet, 4, 07800 Ibiza, Balearic Islands
+
+384. [INTECAT](https://www.intecat.com/es/)
+
+    +34 971 19 17 65
+    Avinguda d'Ignasi Wallis, 24, 07800 Ibiza, Balearic Islands
+
+    +34 971 33 07 96
+    Carrer de Sant Jaume, 83, 1B, 07840 Santa Eulària des Riu, Balearic Islands
+
+385. [App Informática San Antonio-Centro](http://www.appinformatica.com/)
+
+    +34 971 80 32 50
+    Carrer de Cervantes, 40, 07820 Sant Antoni de Portmany, Balearic Islands
+
+386. [ASmac Apple ibiza](http://www.asmac.es/)
+
+    +34 687 77 59 80
+    Calle Pere frances, Pl. de Toros, 22B, 07800 Eivissa, Illes Balears
+
+387. [LUZ CLIMA TECH SL](https://luzclimatech.com/)
+
+    +34 681 87 41 21
+    Carrer de Josep Zornoza Bernabeu, 11, 07800 Ibiza, Balearic Islands
+
+388. [Euronics Sonyvisión](https://www.euronics.es/)
+
+    +34 971 30 43 83
+    Carrer d'Extremadura, 8, 07800 Ibiza, Balearic Islands
+
+389. [Y-E-S Your Everyday Superhero](https://yes-official.com/)
+
+    +34 624 83 74 63
+    Av. Miramar, 3, 07871 Es Pujols, Illes Balears
+
+390. [TECH Mallorca](http://www.techmallorca.es/)
+
+    +34 971 57 47 41
+    Carrer Joan d'Austria, 17, 07300 Inca, Balearic Islands
+
+391. [TECH-PROJECTS](http://www.tech-projects.es/)
+
+    +34 971 70 73 83
+    Av. d'Antoni Maura, 24, 2, Centre, 07012 Palma, Illes Balears
+
+392. [MUSSAI TECH](https://mussai.eu/)
+
+    +34 613 85 51 74
+    C. del Lluç, 22, 07687 S'Illot-Cala Morlanda, Illes Balears
+
+393. [PLAVED TECH](https://plaved.com/)
+
+    +34 871 25 34 70
+    Parc Bit, Carrer Maria Agnesi, S/N, Edificio 17, Planta 3, Local D1, Norte, 07120 Palma, Balearic Islands
+
+394. [Illatech](https://www.illatech.es/)
+
+    +34 667 61 77 93
+    Carrer Pescador, nº 10, 07638 Colònia de Sant Jordi, Balearic Islands
+
+395. [E - Tech Yachting](http://www.etechyachting.com/)
+
+    +34 671 00 07 00
+    Mlle. Viejo, Edificio STP, 07012 Palma, Illes Balears
+
+396. Tap It Tech
+
+    Carrer Joan Maria Thomàs, 2, Ponent, 07014 Palma, Illes Balears
+
+397. [Asensi Technologies](https://tech.asensi.es/)
+
+    +34 971 90 92 19
+    Av. de Jaume III, 1, Primera planta, Distrito Centro, 07012 Palma, Balearic Islands
+
+398. [APSL Nagarro - Advanced Programming Solutions SL](https://apsl.tech/)
+
+    +34 971 43 97 71
+    Carrer Isaac Newton, Norte, 07120 Palma, Balearic Islands
+
+399. [Ei-tech Energy & Engineering](http://ei-tech.es/)
+
+    +34 722 65 92 53
+    Carrer de la Reina Constança, 3, Levante, 07006 Palma, Balearic Islands
+
+400. [High Tech System](http://hightechsystem.info/)
+
+    +34 971 47 73 76
+    Carrer de l'Alber, 29A, Levante, 07008 Palma, Balearic Islands
+
+401. EO Tech
+
+    +34 971 59 39 27
+    Carrer de Niceto Alcalá Zamora, nº32, 07013 Palma, Balearic Islands
+
+402. [Juniper Travel Technology - Europe Headquarters](http://www.ejuniper.com/)
+
+    +34 971 76 44 15
+    Gremi des Fusters, 33, Oficina 302, Norte, 07009 Palma, Balearic Islands
+
+403. Otium Technologies
+
+    Carrer Pere d'Alcàntara Penya, Levante, 07006 Palma, Balearic Islands
+
+404. [Fragile Technologies](https://fragile.tech/)
+
+    +34 665 45 08 25
+    Carrer de Margalida Caimari, 22-26, Levante, 07005 Palma, Balearic Islands
+
+405. [Sling Technology a MinData company](https://www.mindata.es/)
+
+    Gremi des Fusters, 33, Nord, 07009 Palma, Illes Balears
+
+406. [Roibos](https://www.roibos.com/)
+
+    +34 871 18 70 03
+    Gremi des Fusters, 33, Office 325, Norte, 07009 Palma, Balearic Islands
+
+407. [iSystems Information Technologies SL](https://www.isystems.es/)
+
+    Gran Via Asima, nº 4, 3ro izq Edificio Polígono, Norte, 07009 Palma, Balearic Islands
+
+408. VECI Group Tech S. L.
+
+    +34 971 92 59 81
+    S/N, edificio Logitravel, Carrer Galileo Galilei, 07121 Palma, Illes Balears
+
+409. [MAI Technology](http://www.maitechnology.com/)
+
+    +34 971 51 84 30
+    Carrer de Tià Roig, 17, 07340 Alaró, Illes Balears
+
+410. [WaysIT Tech Global Solutions](https://www.waysit.es/)
+
+    +34 876 16 78 31
+    C. Honorio García Condoy, 3, Torrero-La Paz, 50007 Zaragoza
+
+411. [Soluciones Tecnológicas J-Tech S.L.](https://j-tech.es/)
+
+    +34 876 66 01 57
+    C. de la Estación, 5, Local, 50014 Zaragoza
+
+412. [Tekio Technology](https://tekiotechnology.com/)
+
+    +34 686 34 26 31
+    Technocenter 3Edf. Technocenter, Edf. Technocenter 3ª planta Ofc. 312 Calle Bari 31, Edf, C. Bari, 31, 3ª planta Ofc. 312, 50197 Zaragoza
+
+413. [NODRIZA tech](https://nodrizatech.com/)
+
+    +34 687 25 13 74
+    Av. del Rosario, 8, 50410 Cuarte de Huerva, Zaragoza
+
+414. [iDoo tech](http://www.idootech.com/)
+
+    +34 976 91 01 30
+    Av. de Gómez Laguna, 25, planta 5, 50009 Zaragoza
+
+415. [TECH LINIAGE S.L.](https://www.techliniage.com/)
+
+    +34 876 24 08 04
+    C. del Cabecico Redondo, 50410 Cuarte de Huerva, Zaragoza
+
+416. [Sericom Technologies](http://www.sericom.es/)
+
+    +34 902 94 77 68
+    Av. de César Augusto, 44, Atico, Casco Antiguo, 50004 Zaragoza
+
+417. [IBT TECH DISTRIBUTION SL](https://www.ibttech.eu/)
+
+    +34 611 31 77 02
+    World Trade Centre Zaragoza, C. de María Zambrano, 31, Torre Oeste, planta 15, 50018 Zaragoza
+
+418. [Brainy Technology](http://www.brainy.technology/)
+
+    +34 876 28 35 79
+    C. de Jerónimo Zurita, 18, Casco Antiguo, 50001 Zaragoza
+
+419. [Active Business & Technology](https://grupoactive.es/)
+
+    +34 931 93 75 25
+    Av. de Gómez Laguna, 25, Edificio CEA Planta, 5, Oficina A1, 50009 Zaragoza
+
+420. [GFT Technologies IT Consulting, S.L.U.](https://www.gft.com/es/)
+
+    +34 976 02 38 18
+    Pl. de Antonio Beltrán Martínez, 1, Casco Antiguo, 50002 Zaragoza
+
+421. [Codex Technology Alierta S.L](https://codexphones.com/)
+
+    +34 604 99 79 74
+    Av. de Cesáreo Alierta, 60, 50008 Zaragoza
+
+422. [Damasa Tech](http://www.damasatech.es/)
+
+    +34 605 83 24 07
+
+423. [PIRA Technology](http://www.piratechnology.com/)
+
+    +34 973 10 28 44
+    Complex La Caparrella, 97. Edifici CEEI 2.12, 25192 Lleida
+
+424. [Nubus Technologies Corporation](https://nubustech.com/)
+
+    +34 931 78 02 25
+    Carrer Antoni Gaudí, 2, 43142 El Rourell, Tarragona
+
+425. [Sesami Cash Management Technologies Spain, S.L.U.](https://www.sesami.io/)
+
+    +34 974 43 16 06
+    C. Lérida, 62, 22500 Binéfar, Huesca
+
+426. [Venditec Technologies : Desarrollo y mantenimiento de software llaves en mano.](https://www.venditec.com/)
+
+    Avenida Rambla Ferran 21 7a Planta, Rambla de Ferran, 21, 25007 Lleida
+
+427. [Stratesys Technology Solutions S L](https://www.stratesys-ts.com/es/)
+
+    +34 873 99 16 68
+    Parc Científic i TecnParc Agrobiotech Lleida Centro de Iniciativas Empresariales, Turó de Gardeny, edificio 23A, oficina 12, 25003 Lleida
+
+428. [Jordi Tech & Innovation S.L.](http://www.jordi.es/)
+
+    +34 973 75 10 51
+    Pol. Ind. Les Comes, Carrer de la Variant, 35-37, 25123 Torrefarrera, Lleida
+
+429. [midgard](http://www.midgard.es/)
+
+    +34 973 22 34 91
+    Carrer Comerç, 22, 25007 Lleida
+
+430. [Air Tech Group SL](https://airtechgroup.es/)
+
+431. Jabbar.Tech
+
+    +34 977 25 28 09
+    Av. de Roma, 20, 43005 Tarragona
+
+432. [ICOT | Your Tech Partner](https://www.icot.es/)
+
+    +34 977 24 04 50
+    Polígon Industrial Riu Clar, Carrer del Plom, 13-15, nau 9, 43006 Tarragona
+
+433. [TECH GUARD SOLUTIONS S.L.](https://www.techguardsolutions.es/)
+
+    +34 641 78 28 62
+    Carrer Doctor Zamenhoff, 43001 Tarragona
+
+434. [Tegeek](http://tegeek.com/)
+
+    +34 900 925 445
+    Av. de Marià Fortuny, 36, Bajo, 43204 Reus, Tarragona
+
+435. [Surf The Web](http://www.surftheweb.es/)
+
+    +34 902 01 22 44
+    Edifici Albatros, Carrer de la Torrassa, 14, 43840 Salou, Tarragona
+
+436. [DATATRONIK INFO-TECH, SL](https://datatronik-automotive.com/)
+
+    +34 665 09 99 12
+    Carrer de Vilafortuny, s/n, Parcela 23A - NAVE 21, 43480 Vila-seca, Tarragona
+
+437. [Design 3D Tech Printing](https://www.d3dtechprinting.com/)
+
+    +34 643 94 60 52
+    Carrer Sis, 36, 08794 Les Cabanyes, Barcelona
+
+438. [TGB Group Technologies](http://www.tgb-group.com/)
+
+    +34 938 18 24 50
+    Polígono Industrial "La Masia, c/ la alsina, parcela 37, nave 3, 08798 Sant Cugat Sesgarrigues, Barcelona
+
+439. [Tech-Ebike](http://www.tech-ebike.es/)
+
+    +34 930 25 70 48
+    Carrer del Ponent, 1, 08757 Corbera de Llobregat, Barcelona
+
+440. [GTR Tech](https://www.gtr-tech.com/)
+
+    +34 644 43 24 31
+    Carrer Joaquim Icart Leonila, 12, 43007 Tarragona
+
+441. [Tauler Laminating Tech, SL](https://www.tauler.tech/)
+
+    +34 938 19 97 69
+    Polígon industrial Marcaderies, Carrer Font de Sant Llorenç, 32, 08720 Vilafranca del Penedès, Barcelona
+
+442. [Pier 01 Barcelona Tech City](https://www.techbarcelona.com/)
+
+    +34 931 77 02 65
+    Plaça de Pau Vila, 1, Ciutat Vella, 08039 Barcelona
+
+443. [Trilogic Tech-Shop](http://www.trilogic.es/)
+
+    +34 937 50 71 96
+    Carrer Vidal i Barraquer, 14, Local 1, 08339 Vilassar de Dalt, Barcelona
+
+444. [French Tech Barcelona](http://www.frenchtechbarcelona.com/)
+
+    Carrer de Casp, 54, 5-1°, Eixample, 08010 Barcelona
+
+445. [Tech Barcelona - Pier 07](https://techbarcelona.com/)
+
+    +34 933 94 65 11
+    Via Laietana, 26, Ciutat Vella, 08003 Barcelona
+
+446. [Techaway Technologies](http://www.techaway.es/)
+
+    +34 626 28 33 03
+    Carrer de Tuset, 20, Distrito de Sarrià-Sant Gervasi, 08006 Barcelona
+
+447. [Napptilus Tech Labs](https://napptilus.com/)
+
+    +34 932 15 77 35
+    Tech City, Pça. de Pau Vila, 1, oficina 2B, Ciutat Vella, 08039 Barcelona
+
+448. [Ping Pong Technologies](http://www.pingpongtech.com/)
+
+    +34 932 13 90 76
+    Carrer de Morales, 40, 42, Les Corts, 08029 Barcelona
+
+449. [SocialGency Tech](http://socialgency.tech/)
+
+    +34 626 20 10 91
+    Carrer de Francesc Saula i Pujals, 08370 Calella, Barcelona
+
+450. [TPB tech](http://tpbtech.com/)
+
+    +34 931 17 66 39
+    Pol.Ind.Montguit, Carrer Cardedeu, s/n, 08480 EU, Barcelona
+
+451. [Tech-M](https://tech-m.com/)
+
+    +34 938 44 96 16
+    Carrer dels Esqueis, 27, 08415 Bigues i Riells, Barcelona
+
+452. [TEG Technologies](https://tegtechnologies.com/)
+
+    +34 972 39 67 35
+    Carrer de Mosquerola, 88, 17180 Vilablareix, Girona
+
+453. [Original Tech](http://www.originaltech.com/)
+
+    +34 972 31 63 57
+    Àngel Guimerà Nave 1, 17230 Palamós, Girona
+
+454. [Garrotxa Tech](https://www.garrotxatech.com/)
+
+    +34 872 04 11 99
+    Carrer Pou del Glaç, 6, Segon pis, 17800 Olot, Girona
+
+455. [SocialGency Tech](http://socialgency.tech/)
+
+    +34 626 20 10 91
+    Carrer de Francesc Saula i Pujals, 08370 Calella, Barcelona
+
+456. [Lecta Technology Center (LTC)](https://www.lecta.com/)
+
+    +34 972 16 87 92
+    Urbanizació de les Mallorquines s/n, 17410, Girona
+
+457. [Cumlaude Tech - Assessorament Tecnològic Independent](http://cumlaude.tech/)
+
+    Carrer de la Duana, 16, 17600 Figueres, Girona
+
+458. Aviation Tech Solutions
+
+    +34 617 00 55 52
+    Francesc Pi i Margall 5, 6è, 5a, 17310 Lloret de Mar, Girona, Spain
+
+459. [Gira.Tech](http://www.gira.tech/)
+
+    +34 972 96 60 72
+    Centre de Formació Integrat Ferran Sunyer i Balaguer Incubadora vertical d'empreses, Ronda Sud, 3, despatx 3, 17600 Figueres, Girona
+
+460. [Inogan Tech](https://www.inogan.com/)
+
+    +34 973 60 32 32
+    Carrer Major, 65, 17257 Gualta, Girona
+
+461. [BCN Centre de Drons](https://www.barcelonadronecenter.com/)
+
+    +34 931 03 60 34
+    Camí de l'Espinoi, s/n, 08180 Moià, Barcelona
+
+462. [3S'TECH](https://www.3stech.eu/)
+
+    +34 972 18 32 10
+    C/ Pic de Peguera 15A, Edifici Jaume Casademont Estudi / Despatx nº 11 (Planta 1ª) | Taller i Laboratori nº 4 P.B, 17003 Girona
+
+463. [TECH Universidad](https://www.techtitute.com/es/)
+
+    +34 664 22 93 12
+    Av. Taco, 164, 38108 La Laguna, Santa Cruz de Tenerife
+
+464. [Saen Tech Canarias](http://www.saentech.com/)
+
+    +34 922 61 62 66
+    Los Majuelos, C. Tijarafe, 23, 38108 La Laguna, Santa Cruz de Tenerife
+
+465. [Xenic Technology, S.L.](https://www.xenictechnology.com/)
+
+    +34 922 63 14 97
+    C. Aguere, 4, 38108 La Laguna, Santa Cruz de Tenerife
+
+    +34 928 91 50 37
+    C. León y Castillo, 161, 35008 Las Palmas de Gran Canaria, Las Palmas
+
+466. [PwC Digital Technology Services](http://www.intechtenerife.es/)
+
+    +34 822 02 85 87
+    Calle Puerto de Los Cristianos, 24, 38120, Santa Cruz de Tenerife
+
+467. [Atlantis Technology](https://www.atlantistecnologia.com/)
+
+    +34 922 31 63 12
+    Cam. de San Lázaro, 174, Binter Canarias, 38206 La Laguna, Santa Cruz de Tenerife
+
+468. [Smart Tech Canarias S.L.U. David Bär](http://www.tv-canarias.com/)
+
+    +34 627 52 70 75
+    Av. Eugenio Dominguez Sierra, 32, 38639 Oroteanda Baja, Santa Cruz de Tenerife
+
+469. [CEPERIC Technologies](https://ceperictech.com/)
+
+    +34 928 88 04 78
+    Calle Lomo Guillén 41 Edificio Hermes, Oficina 31A, 35450 Guía, Las Palmas
+
+    +34 922 08 26 89
+    Edificio Torres de Cristal, C. Aguere, 9, Oficina 1, 38005 Santa Cruz de Tenerife
+
+    +34 928 93 95 30
+    C. Buenos Aires, 3, 35002 Las Palmas de Gran Canaria, Las Palmas
+
+470. Adapta.tech - Software de gestión ERP y CRM para pymes
+
+    Av. Profesor Peraza Ayala, 3, 38001 Santa Cruz de Tenerife
+
+471. [Shidix Technologies](https://www.shidix.com/)
+
+    +34 922 50 25 17
+    Av. las Palmeras, 19, 38205 La Laguna, Santa Cruz de Tenerife
+
+472. [Alenera Technology](http://www.alenera.es/)
+
+    +34 616 63 90 89
+    C. Arturo Vergara Rodríguez, 2, 38205 La Laguna, Santa Cruz de Tenerife
+
+473. E5 Technology
+
+    +34 922 64 20 72
+    C. Fotógrafo José Norberto Rodríguez Díaz Zenón, 2, 4.1, 38204 La Laguna, Santa Cruz de Tenerife
+
+474. [CG TECH Informática | Reparación de móviles Las Palmas](https://cgtechinformatica.com/)
+
+    +34 678 38 89 56
+    P.º Poeta Pedro Lezcano, 14, 35400 Arucas, Las Palmas
+
+475. [Open Tech S.L.](https://www.opentech.es/)
+
+    +34 928 94 36 40
+    C. de León y Castillo, 98, 35110 Santa Lucía de Tirajana, Las Palmas
+
+476. [Travel Tech School by Amadeus - ULPGC](https://traveltechschool.com/)
+
+    Campus Universitario de Tafira, s/n, 35017, Las Palmas
+
+477. [Zoi](https://www.zoi.tech/es/)
+
+    +34 928 34 75 14
+    C. Viera y Clavijo, 35, oficina 105, 35002 Las Palmas de Gran Canaria, Las Palmas
+
+478. [Hydro-Tech](http://hydrotechlanzarote.com/)
+
+    +34 646 75 25 12
+    C. Reyes Católicos, 12, 35572 Aias, Las Palmas
+
+479. Tiburox.tech
+
+    +34 661 64 62 20
+    C. Lomo la Plana, 35019 Las Palmas de Gran Canaria, Las Palmas
+
+480. [New Tech Team Canarias SLL](http://newtechteamcanarias.com/)
+
+    +34 642 10 04 44
+    C. Prior Mateo Tello, 20, 1, 35220 Telde, Las Palmas
+
+481. BPG-Tech, Servicios Técnicos
+
+    +34 667 99 58 70
+    C. Mar Cantábrico, 8, 35010 Costa Ayala, Las Palmas
+
+482. [Internet Technology Partner](https://intechpartner.com/)
+
+    +34 910 05 28 28
+    C. Buenos Aires, 8, 2ºB, 35002 Las Palmas de Gran Canaria, Las Palmas
+
+483. [Live Now Technology](https://livenowtech.com/)
+
+    Ctra. de Chile, 35, 35010 Las Palmas de Gran Canaria, Las Palmas
+
+484. Team&Talent Technologies SCP
+
+    +34 928 93 92 71
+    C. Francisco Gourié, 107, 35002 Las Palmas de Gran Canaria, Las Palmas
+
+485. [ADM Tech](http://www.admtech.aero/)
+
+    +34 606 04 25 91
+    C. las Adelfas, 7A, Planta 1, 35118 Agüimes, Las Palmas
+
+486. [Atlantis Technology (Atlantis Tecnología y Sistemas, S.L.)](https://atlantistecnologia.com/)
+
+    +34 928 30 56 25
+    C. Rigoberta Menchú, 6, Parque Industrial, 35214 Playa de Melenara, Las Palmas
+
+487. [CanTech - Canarian Technology](http://cantech.es/)
+
+    +34 681 29 66 64
+    C. Guacimara, 127, 35120 Mogán, Las Palmas
+
+488. [ICP Tech. Solutions](http://icptechsolutions.fr/)
+
+    C. las Adelfas, 41, P.I, 35118 Arinaga, Las Palmas
+    C. los Dragos, 47, P.I, 35118 Arinaga, Las Palmas
