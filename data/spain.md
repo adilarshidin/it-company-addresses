@@ -1,243 +1,466 @@
 1. [SRG INFORMATICA](http://www.srginformatica.es/)
 
     +34 886 09 04 40
+    
     Av. de María Victoria Moreno, 48, 36003 Pontevedra
+
+    hola@srginformatica.es
+
+    [LinkedIn](https://www.linkedin.com/company/srg-informatica-sl/about/)
+
+    [Instagram](https://www.instagram.com/srgtechconsulting/)
 
 2. [Imaro Tech](http://imaro.net/)
 
     +34 633 22 11 37
+    
     Rúa Jaime Janer, 1, 36900 Marín, Pontevedra
+
+    info@imaro.net
+
+    [LinkedIn](https://www.linkedin.com/company/imaro-tech)
 
 3. [Oveun Software & Tech](https://www.oveun.es/)
 
     +34 678 70 75 75
+    
     R. Progreso, 20, 36400 O Porriño, Pontevedra
+
+    oveun@oveun.es
+
+    [LinkedIn](https://www.linkedin.com/company/oveun-software-tech/)
+    
+    [Instagram](https://www.instagram.com/oveun_software_tech/)
 
 4. [Galvintec](http://www.galvintec.com/)
 
     +34 886 25 10 15
+    
     Av. de Madrid, 197, Lavadores, 36214 Vigo, Pontevedra
+
+    info@galvintec.com
+
+    [LinkedIn](https://www.linkedin.com/company/galvintec/)
+
+    [Instagram](https://www.instagram.com/galvintec/)
 
 5. [Plexus Tech](https://www.plexus.es/)
 
     +34 604 49 73 34
+    
     Rúa Pablo Picasso, 1, 36600 Vilagarcía de Arousa, Pontevedra
     
     +34 981 53 41 36
+    
     Polígono de Boisaca, Rúa de José Villar Granjel, 22, 24, 15890 Santiago de Compostela, A Coruña
+    
     Rúa de Isidro Parga Pondal, 2, 15702 Santiago de Compostela, A Coruña
+    
     Rúa do Progreso, 5, 32005 Ourense, Province of Ourense
 
     +34 902 99 80 05
+    
     Poligono Novo Milladoiro, RUA Oliveira, NAVE 102-A Milladoiro, 15895 Santiago de Compostela, A Coruña
+    
     Rúa Galileo Galilei, nº 2- 1º, 15008 A Coruña
 
     +34 607 59 74 18
+    
     Pl. San Martín, 10, Centro coworking, 24003 León
 
     C. de Julián Camarillo, 7, San Blas-Canillejas, 28037 Madrid
 
     +34 670 44 03 01
+    
     C. Benito Arias Montano, 1, escalera 1, 5ª planta, Oficina nº 4, 06800 Mérida, Badajoz
 
     +34 981 53 41 36
+    
     Parque Científico Tecnológico de Huelva, C. Caucho, nº1, 21110 Aljaraque, Huelva
 
     +34 902 99 80 05
+    
     Sita en la Planta 4ta del Edificio Torre Dimovil, Av. Juan Carlos I, 59, Oficina nº 1, 30100 Murcia
 
     +34 971 75 03 24
+    
     Edificio Mapfre, Camí dels Reis, 308, 2 P, Norte, 07010 Palma, Balearic Islands
 
     +34 617 90 18 84
+    
     Av. Francisco la Roche, nº 33, Planta baja, 38001 Santa Cruz de Tenerife
+
+    talento@plexus.es
+
+    [LinkedIn](https://linkedin.com/company/plexus-tech)
+
+    [Instagram](https://instagram.com/plexus.tech)
 
 6. [Train on tech](https://trainontech.com/)
 
     +34 613 03 29 02
+    
     Rúa da Agriña do Meixonfrío, 15705 Santiago de Compostela, A Coruña
+
+    [LinkedIn](https://www.linkedin.com/company/trainontech)
 
 7. [Brios Solucións Tecnolóxicas S.L.](http://www.brios.tech/)
 
     Rua das Hedras, 1, 15895 O Milladoiro, A Coruña
 
+    brios@brios.tech
+
 8. [OpSeeker Tech](https://opseeker.com/)
 
     +34 638 47 35 34
+    
     Rúa Hedras, 26, 15895 Ames, A Coruña
+
+    gonzalo@opseeker.com
+
+    [LinkedIn](https://www.linkedin.com/company/opseeker/)
+
+    [Instagram](https://www.instagram.com/opseeker/)
 
 9. [Entercom Technologies](http://entercom.es/)
 
     +34 986 55 96 75
+    
     Ctra da Bouza 1, 36645 Valga, Pontevedra
+
+    entercom@entercom.es
 
 10. [Cocodin Technology](https://www.cocodin.com/)
 
     +34 981 93 63 21
+    
     Camino Adrán, 2, 15866, A Coruña
+
+    hello@cocodin.com
+
+    [LinkedIn](https://www.linkedin.com/company/cocodin/)
 
 11. [NLPgo Technologies, S.L.](https://www.nlpgo.com/)
 
     +34 881 18 30 22
+    
     portal 2, bajo 3B, 15280 Brión, A Coruña
+
+    info@nlpgo.com
 
 12. Brugova Technologies s.l.
 
     +34 666 46 70 42
+    
     R. Travesa, 23, 15704 Santiago de Compostela, A Coruña
+
+    bgomez@brugova.com
 
 13. [DEICOM TECHNOLOGIES](http://deicom-technologies.com/)
 
     +34 886 31 25 10
+    
     1ª, Rúa de Urzáiz, 38, 1C, 36201 Vigo, Pontevedra
+
+    info@deicom-technologies.com
+
+    [LinkedIn](https://www.linkedin.com/company/deicom-technologies/)
 
 14. [MTS Tech](https://www.mtstech.eu/)
 
     +34 938 54 48 41
+
     Área Portuaria de Bouzas s/n, 36208 Vigo, Pontevedra
+    
     Calle San Esteban, 31013 Berriozar, Navarra
+
+    info@mtstech.eu
 
 15. [Welgood Technologies](https://welgood.es/)
 
     +34 986 44 36 99
+    
     Praza de Compostela, 27, Bajo, 36201 Vigo, Pontevedra
+
+    administracion@welgoodsolutions.com
+    
+    [LinkedIn](https://www.linkedin.com/company/welgood/)
 
 16. [TECH ID INTEGRATIONS SL](https://www.tech-id.com/)
 
     +34 886 06 16 00
+    
     Avenida de Puxeiros, 86, Cabral, 36416, Pontevedra
+
+    info@tech-id.com
 
 17. [Tesla Technologies & Software S.L](https://teslatechnologies.com/)
 
     +34 634 59 34 43
+    
     Rúa do Valiño, 35, 15707 Santiago de Compostela, A Coruña
+
+    info@teslatechnologies.com
+    
+    [LinkedIn](https://www.linkedin.com/company/tesla-technologies-&-software-s-l-/)
 
 18. [Tech-Academy](https://www.tech-academy.eu/)
 
     +34 647 78 70 06
+
     Rúa Vigo, 3, Bajo, 15570 Narón, A Coruña
+
+    info@tech-academy.info
+    
+    [Instagram](https://www.instagram.com/tech.academy_education/)
 
 19. [Docuten Tech](http://www.docuten.com/)
 
     +34 981 26 96 85
+
     HI Coruña, Av. Porto da Coruña, 3, Planta Baja. Local 6, 15003 A Coruña
+
+    atencionalcliente@docuten.com
+    
+    [LinkedIn](https://linkedin.com/company/docuten)
+
+    [Instagram](https://www.instagram.com/docuten/?hl=es)
 
 20. [Septentrio Technologies](https://septentriotech.com/)
 
     +34 881 25 80 49
+
     Rúa Jesús Fernández Pita, 15540 Narón, A Coruña
+
+    info@septentriotech.com
+    
+    [LinkedIn](https://www.linkedin.com/company/septentrio-technologies-s-l/)
 
 21. [TESGAL TECHNOLOGIES S.L.](https://www.tesgal.com/)
 
     +34 881 25 89 11
+
     C. P. Cortiñán, nº3, 15165 Bergondo, A Coruña
+
+    info@tesgal.com
 
 22. [Verne Tech](https://www.vernegroup.com/)
 
     +34 981 13 88 47
+    
     Avenida Terceira, Parcela H1, 15190 Polígono de Pocomaco, A Coruña
 
     +34 881 88 59 17
+    
     C. Padre Rodes, 14, 03600 Elda, Alicante
 
     +34 965 39 85 25
+    
     C. de la Libra, 117, 03114 Alicante
 
     +34 964 34 00 27
+    
     C. Juan Pablo II, 6, Puerta A, 12003 Castellón de la Plana, Castellón
+
+    info@vernegroup.com
+    
+    [LinkedIn](https://www.linkedin.com/company/vernegroup/)
+
+    [Instagram](https://www.instagram.com/verne_group/)
+
+    [X](https://x.com/VerneGroup)
 
 23. [Joan Dev & Tech](https://joandev.com/)
 
     +34 676 35 32 15
+
     Rúa Noia, 51, 5-D, 15007 A Coruña
+
+    [LinkedIn](https://www.linkedin.com/in/joan-torres-532054205/)
+    
+    [Instagram](https://www.instagram.com/joandev_es/)
 
 24. [Softtek](https://www.softtek.com/)
 
     +34 981 98 08 00
+
     Av. Quinta, 91, 15190 Polígono de Pocomaco, A Coruña
+
+    info.europe@softtek.com
+    
+    [LinkedIn](https://www.linkedin.com/company/softtek)
+
+    [Instagram](https://www.instagram.com/softtekofficial/)
+    
+    [X](https://x.com/Softtek)
 
 25. [CO2 Smart Tech](http://www.co2st.es/)
 
     +34 881 98 61 57
+
     Praza Charles Darwin, 2, bajo, 15172 Oleiros, A Coruña
+
+    co2st@co2st.es
+    
+    [LinkedIn](https://www.linkedin.com/company/co2-smart-tech---co2st)
 
 26. [Gleads Tech](http://www.gleadstech.com/)
 
     +34 690 76 39 57
+
     Av. Fonteculler, 56, 15174 a coruña, A Coruña
 
-27. [Green Technology Labs](http://greentecnologia.com/)
+    gleads@gleadstech.com
+    
+    [LinkedIn](https://www.linkedin.com/company/gleads-tech/)
+
+27. Green Technology Labs
 
     La, Telva, 2C, 15181 A Telva, A Coruña
 
 28. [Ipglobal](https://ipglobal.es/)
 
     +34 981 27 80 77
+
     Ed. Casa del Agua, Rúa Manuel Murguía, S/N, 1º Planta, Local Comercial, 15011 L1B, A Coruña
+
+    info@ipglobal.es
+    
+    [LinkedIn](https://www.linkedin.com/company/2394690?trk=tyah)
+
+    [Instagram](https://instagram.com/ipglobalsl)
+
+    [X](https://x.com/ipglobalsl)
 
 29. [Brox Technology](http://www.broxtechnology.com/)
 
     +34 727 78 02 96
+
     Av. La Coruña, 500, Of 7D, 27003 Lugo
+
+    info@broxtechnology.com
 
 30. [Parque Tecnológico de Galicia](https://www.tecnopole.gal/)
 
     +34 988 36 81 00
+    
     Avd. Edificio CEI, Parque Tecnolóxico De, 32900, Ourense
 
-31. [Wild Development Technology S.L-WDTECH](http://www.wd-tech.com/)
+    tecnopole@tecnopole.gal
+
+31. Wild Development Technology S.L-WDTECH
 
     +34 635 12 68 85
+    
     Lugar Gomariz, 28, 32429 Gomariz, Province of Ourense
 
 32. [Environmental Physics Technologies S.L.](http://ephytech.com/)
 
     +34 639 42 78 17
+    
     Sistis, 4, 32593 Arrabaldo, Ourense
+
+    info@ephytech.com
+    
+    [LinkedIn](https://www.linkedin.com/company/ephytech)
+    
+    [X](https://x.com/ephytech)
 
 33. [PYME LAB Technologies, S.L.](https://pyme-tech.com/)
 
     +34 978 21 02 64
+
     Rúa do Progreso, 113, Local 7, 32003 Ourense, Province of Ourense
+
+    admin@pymte-tech.com
+    
+    [LinkedIn](https://www.linkedin.com/in/pyme-lab-technologies-s-l-6aa625280/)
+
+    [Instagram](https://www.instagram.com/pyme_lab_tech/)
+
+    [X](https://x.com/pyme_lab_tech)
 
 34. [VIEWNEXT](https://www.viewnext.com/)
 
     +34 988 52 15 00
+
     Edificio Finca Sevilla, Rúa Ponte Sevilla, nº 2, 32005 Ourense
 
     +34 927 62 26 00
+    
     Parque Científico y Tecnológico - Avda. de la Universidad s/n, 10071 Cáceres
+
+    seguridad@viewnext.com
+    
+    [LinkedIn](https://www.linkedin.com/company/viewnext/)
+    
+    [X](https://x.com/viewnext)
 
 35. [AMMi Technologies](https://ammitechnologies.com/)
 
     +34 988 38 37 77
+
     Rúa Ricardo Martín Esperanza, 25, 32901 Polígono San Cibrao, Ourense
+
+    info@ammitechnologies.com
+    
+    [LinkedIn](https://www.linkedin.com/company/ammi-technologies-s-l-/)
 
 36. [Alia Technologies, S.L.](http://www.alialabs.com/)
 
     +34 649 06 69 14
+
     Rúa Nova, 8, 32004 Ourense, Province of Ourense
+
+    contacto@alialabs.com
+    
+    [LinkedIn](https://www.linkedin.com/company/alia-technologies)
+
+    [X](https://x.com/aliatechs)
 
 37. Stoutic Computing Technologies, S.L.
 
     +34 986 18 14 87
+
     Polígono Lalín 2000, 1B, 36512 Lalín, Pontevedra
+
+    info@stoutic.com
 
 38. [Mytelai.com](https://www.mytelai.com/)
 
     Rúa Ponte Romana, 32001, 32001 Ourense, Province of Ourense
 
+    mytelaitechnologydm@gmail.com
+
 39. [Asturias Technology Park](http://www.ptasturias.es/)
 
     +34 985 98 00 20
+    
     Parque Tecnológico de Asturias, Edificio IDEPA, 33428, Asturias
+
+    comunicacion@ptasturias.es
+    
+    [LinkedIn](https://www.linkedin.com/company/parque-tecnol-gico-de-asturias/)
+
+    [Instagram](https://www.instagram.com/ptasturias/)
+
+    [X](https://x.com/ptasturias)
 
 40. [DXC Technology](http://www.dxc.technology/es/)
 
     Parque Empresarial del, Av. de la Siderurgia, 15, 33417 Avilés, Asturias
 
     +34 950 14 33 20
+
     C. Freniche, 4, 04009 Almería
+
+    GSS-HR-ER@dxc.com
+    
+    [LinkedIn](https://www.linkedin.com/company/dxctechnology)
+
+    [Instagram](https://www.instagram.com/DxcTechnology/)
+
+    [X](https://x.com/dxctechnology)
 
 41. [evolutiva tech](https://evolutiva.tech/)
 
