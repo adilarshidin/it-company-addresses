@@ -801,149 +801,318 @@
 71. [Lucus Tech](https://lucus-tech.com/)
 
     +34 667 49 11 33
+
     Av. de Madrid, 75, 27002 Lugo
+
+    alejandro@lucus-tech.com
+    
+    ivan@lucus-tech.com
 
 72. [Whale Tech Analytics](https://whaleanalytics.tech/)
 
     Cam. Oncina, 26, 24391 León
 
+    contacto@whaleanalytics.tech
+
 73. [CARTIF Technology Center](http://www.cartif.es/)
 
     +34 983 54 65 04
+
     Av. Francisco Vallés, 4, 47151 Boecillo, Valladolid
+
+    borfer@cartif.es
+
+    marlod@cartif.es
+
+    marmay@cartif.es
+
+    [LinkedIn](http://www.linkedin.com/company/cartif)
+
+    [X](https://x.com/cartifct)
 
 74. [LAB TECH Laboratorio Tecnológico de Contenidos Digitales de Castilla y León](https://www.ideva.es/)
 
     +34 983 24 74 01
+
     C. Valle de Arán, 3, 47010 Valladolid
+
+    ideva@ava.es
+
+    [LinkedIn](https://www.linkedin.com/company/agencia-de-innovaci%C3%B3n-y-desarrollo-econ%C3%B3mico-de-valladolid/)
+
+    [Instagram](https://www.instagram.com/ideva.agencia/?hl=es)
+
+    [X](https://x.com/ideva_agencia)
 
 75. Arges Tech
 
     +34 983 39 47 63
+
     C. del Santuario, 20, 47002 Valladolid
 
 76. [Luce Innovative Technologies (Luce IT)](https://www.luceit.com/)
 
     +34 983 26 37 58
+
     Av. del Euro, 7, 47009 Valladolid
+
+    info@luceit.es
+
+    [LinkedIn](https://www.linkedin.com/company/1074984)
+
+    [Instagram](https://www.instagram.com/luceit_)
+
+    [X](https://x.com/luceit)
 
 77. [SEGULA Technologies](https://www.segulatechnologies.com/es/)
 
     +34 983 30 77 84
+
     Pl. del Quinto Centenario, 47008 Valladolid
 
     +34 945 01 27 00
+
     C. Gran Capitán, 51, 13500 Puertollano, Ciudad Real
+
+    msilva@segulagrp.es
+
+    [LinkedIn](https://www.linkedin.com/company/segula-technologies/?viewAsMember=true)
+
+    [X](https://www.x.com/segula_group)
 
 78. Lemur in the Box S.L.
 
     +34 912 86 82 20
+
     C. de Pilar Miró, 1, 2ª planta, 47008 Valladolid
+
+    alvaro@lemurinthebox.com
+
+    [LinkedIn](https://www.linkedin.com/company/lemur-in-the-box/)
 
 79. [Grain Technology Center Castilla y Leon - CETECE](https://www.cetece.net/)
 
     +34 979 16 53 27
+
     Av Madrid, s/n, 34004 Palencia
+
+    info@cetece.org
+
+    [Instagram](https://www.instagram.com/cetece_/?hl=es)
+
+    [X](https://x.com/i/flow/login?redirect_after_login=%2FCETECE_NET)
 
 80. [Ergos Technology S.L.](http://www.ergostechnology.es/)
 
     +34 983 84 97 18
+
     C. Pino Negral, 13, 47162 Aldeamayor de San Martín, Valladolid
+
+    info@ergostechnology.es
+
+    [LinkedIn](https://www.linkedin.com/company/ergos-technology-s.l./)
 
 81. [Wolfsa Tech S.L.](http://www.wolfsa.es/)
 
     +34 983 50 78 66
+
     C. Plata, 65, 47012 Valladolid
+
+    info@wolfsa.es
+
+    [LinkedIn](https://www.linkedin.com/company/wolfsa-tech/)
 
 82. [Bintech Solutions, s.l.](http://www.bintech.es/)
 
     +34 947 05 86 96
+
     C. Pavoa, 5, 09400 Aranda de Duero, Burgos
+
+    contacto@bintech.es
+
+    [LinkedIn](https://www.linkedin.com/company/bintech-solutions-s-l-/)
 
 83. [NG Branch Technology Spain](http://ng-branch-technology.com/)
 
     C. de Santiago López González, 13, nave 4, 47197 Valladolid
 
+    info@ng-branch-technology.com
+
+    [LinkedIn](https://www.linkedin.com/company/ng-branch-technology/)
+
 84. [Rapture Games](http://rapture-games.com/)
 
     C. de Panaderos, 59, 47004 Valladolid, Spain
 
+    [LinkedIn](https://www.linkedin.com/company/rapture-games/)
+
+    [Instagram](https://www.instagram.com/rapturegamessl/)
+
+    [X](https://x.com/RaptureGamesSL)
+
 85. [Cognizant Technology Solutions Valladolid](https://www.cognizant.com/es/es)
 
     +34 910 31 66 30
+
     C. Juan de Herrera, 15, 47151 Boecillo, Valladolid
+
+    inquiry@cognizant.com
+
+    [LinkedIn](https://www.linkedin.com/company/cognizant)
+
+    [Instagram](https://www.instagram.com/cognizant)
+
+    [X](https://x.com/cognizant)
 
 86. [DATA TECHNOLOGY CONSULTING (DTC)](https://dtcvalladolid.es/)
 
     +34 983 30 76 00
+
     C. Sta. María, 17, 1° Derecha, 47001 Valladolid
+
+    info@dtccompany.es
+
+    [LinkedIn](https://www.linkedin.com/in/dtcasset/)
+
+    [X](https://x.com/DATATECHNOLOG11)
 
 87. [TECH ONE TECH](http://www.tech1tech.com/)
 
     +34 945 01 23 45
+
     Brusela Hiribidea, 8, Oficina 21 - 1ª Planta, Salburua, 01003 Vitoria-Gasteiz, Álava
+
+    info@tech1tech.com
 
 88. [Bosonit | Tech & Innovation](https://bosonit.com/)
 
     +34 941 54 63 06
+
     Gran Vía Juan Carlos I, 18, Entreplanta y 1º Planta, 26002 Logroño, La Rioja
+
+    hola@bosonit.com
+
+    [LinkedIn](https://www.linkedin.com/company/bosonit/)
+
+    [Instagram](https://instagram.com/bosonithit?igshid=MTNiYzNiMzkwZA==)
+
+    [X](https://x.com/Bosonit)
 
 89. [Aciturri Tech](https://aciturritech.com/)
 
     +34 647 43 16 78
+
     Polígono Industrial Ircio Actividades Avenida de México 40, 09219, Burgos
+
+    conecta@aciturritech.com
+
+    [LinkedIn](https://www.linkedin.com/company/aciturri-tech/)
 
 90. [GINZO TECHNOLOGIES | Transformación digital](http://ginzo.tech/)
 
     +34 941 57 57 57
+
     C. Francisco de Quevedo, 18, 1c, 26006 Logroño, La Rioja
+
+    info@ginzo.tech
+
+    [LinkedIn](https://www.linkedin.com/company/ginzotech/)
 
 91. [OPEN WIT TECH & ENGINEERING SERVICES S.L.U. (ATAMAN)](https://ataman.io/)
 
     +34 638 82 16 44
+
     C. Eibar, 18, 26007 Logroño, La Rioja
+
+    [LinkedIn](https://www.linkedin.com/company/atamanes/)
 
 92. [YET Fashion Technology](https://yet.es/)
 
     +34 945 14 74 23
+
     Kexaako Gazteluaren Kalea, 11, Oficina 25, 01007 Vitoria-Gasteiz, Araba
+
+    info@yet.es
+
+    [LinkedIn](https://es.linkedin.com/company/yetfashiontechnology)
 
 93. [Astrum Technologies](https://www.astrum.es/)
 
     +34 941 44 50 61
+
     Av. de Colón, 17, 26003 Logroño, La Rioja
+
+    info@astrum.es
+
+    [LinkedIn](https://www.linkedin.com/company/astrum-technologies-s-l-/)
 
 94. [Esteka Digital Technologies, SL](http://esteka.com/)
 
     +34 622 55 03 00
+
     Cuadrilla de Laguardia - Rioja Alavesa Kalea, 64, bajo 2c, 01013 Vitoria-Gasteiz, Álava
 
-95. [Andorra Tech & Startups](https://www.andorratechstartups.com/)
+    hola@esteka.com
+
+95. [CanTech - Canarian Technology](http://cantech.es/)
+
+    +34 681 29 66 64
+
+    C. Guacimara, 127, 35120 Mogán, Las Palmas
+
+    info@cantech.es
 
 96. [Tic And Go Technology S.L](http://www.ticandgo.com/)
 
     +34 945 56 37 22
+
     Felix Alfaro Fournier Kalea, 45, 01010 Vitoria-Gasteiz, Álava
 
-97. [LBLaction - Tech Solutions](http://www.lblaction.com/)
+    info@ticandgo.com
 
-    +34 948 06 38 42
-    Polígono Industrial Noáin-Esquiroz, calle O N2 Of. 304, 31110 Noáin
+    [X](https://x.com/ticandgo)
+
+97. [Atlantis Technology (Atlantis Tecnología y Sistemas, S.L.)](https://atlantistecnologia.com/)
+
+    +34 928 30 56 25
+
+    C. Rigoberta Menchú, 6, Parque Industrial, 35214 Playa de Melenara, Las Palmas
+
+    info@atlantistecnologia.com    
 
 98. [BRIOAGRO TECH](http://brioagro.es/)
 
     +34 687 08 70 13
+
     C. C, 31500 Tudela, Navarra
+
+    tech@brioagro.es
+
+    [LinkedIn](https://www.linkedin.com/company/brioagro-technologies)
+
+    [Instagram](https://www.instagram.com/brioagr/)
+
+    [X](https://x.com/brioagr)
 
 99. Welkom Group Technologies
 
     +34 625 51 95 99
+
     Parque Tecnológico de Alava - Edificio BIC, Albert Einstein Kalea, 15, 01510 Vitoria-Gasteiz, Álava
 
 100. [ATS Global](https://www.ats-global.com/es/)
 
     +34 945 29 69 81
+
     Parque Tecnológico de Álava, Leonardo Da Vinci Kalea, 14 - Edificio PIE, Pabellón 8A, PTA, 01510 Miñao/Miñano Mayor, Álava
+
+    marketing@ats-global.com
+
+    [LinkedIn](https://www.linkedin.com/company/ats-global/)
+
+    [Instagram](https://www.instagram.com/_atsglobal/)
+
+    [X](https://x.com/ATS_Int)
 
 101. [Esoft - Ukabi Group](https://www.e-soft.es/)
 
@@ -2902,18 +3071,3 @@
 
     +34 606 04 25 91
     C. las Adelfas, 7A, Planta 1, 35118 Agüimes, Las Palmas
-
-486. [Atlantis Technology (Atlantis Tecnología y Sistemas, S.L.)](https://atlantistecnologia.com/)
-
-    +34 928 30 56 25
-    C. Rigoberta Menchú, 6, Parque Industrial, 35214 Playa de Melenara, Las Palmas
-
-487. [CanTech - Canarian Technology](http://cantech.es/)
-
-    +34 681 29 66 64
-    C. Guacimara, 127, 35120 Mogán, Las Palmas
-
-488. [ICP Tech. Solutions](http://icptechsolutions.fr/)
-
-    C. las Adelfas, 41, P.I, 35118 Arinaga, Las Palmas
-    C. los Dragos, 47, P.I, 35118 Arinaga, Las Palmas
