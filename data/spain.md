@@ -6,7 +6,7 @@
 
     hola@srginformatica.es
 
-    [LinkedIn](https://www.linkedin.com/company/srg-informatica-sl/about/)
+    [LinkedIn](https://www.linkedin.com/company/srg-informatica-sl/)
 
     [Instagram](https://www.instagram.com/srgtechconsulting/)
 
@@ -43,6 +43,8 @@
     [LinkedIn](https://www.linkedin.com/company/galvintec/)
 
     [Instagram](https://www.instagram.com/galvintec/)
+
+    [X](https://x.com/galvintec?s=11&t=3wK2QlreEn5YgCXBUy-LVg)
 
 5. [Plexus Tech](https://www.plexus.es/)
 
@@ -122,6 +124,8 @@
 
     [Instagram](https://www.instagram.com/opseeker/)
 
+    [X](https://x.com/opseekerfin/)
+
 9. [Entercom Technologies](http://entercom.es/)
 
     +34 986 55 96 75
@@ -139,6 +143,10 @@
     hello@cocodin.com
 
     [LinkedIn](https://www.linkedin.com/company/cocodin/)
+
+    [Instagram](https://www.instagram.com/cocodintechnology/)
+
+    [X](https://x.com/CocodinTech)
 
 11. [NLPgo Technologies, S.L.](https://www.nlpgo.com/)
 
@@ -175,6 +183,12 @@
     Calle San Esteban, 31013 Berriozar, Navarra
 
     info@mtstech.eu
+    
+    [LinkedIn](https://www.linkedin.com/company/mtstech/)
+
+    [Instagram](https://www.instagram.com/mts.tech/)
+
+    [X](https://twitter.com/tech_mts)
 
 15. [Welgood Technologies](https://welgood.es/)
 
@@ -193,6 +207,8 @@
     Avenida de Puxeiros, 86, Cabral, 36416, Pontevedra
 
     info@tech-id.com
+
+    [LinkedIn](https://www.linkedin.com/company/tech-id-integrations/)
 
 17. [Tesla Technologies & Software S.L](https://teslatechnologies.com/)
 
@@ -225,6 +241,8 @@
     [LinkedIn](https://linkedin.com/company/docuten)
 
     [Instagram](https://www.instagram.com/docuten/?hl=es)
+
+    [X](https://x.com/docuten)
 
 20. [Septentrio Technologies](https://septentriotech.com/)
 
