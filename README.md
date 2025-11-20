@@ -89,6 +89,6 @@ The queries were used for a list of town in each of the countries (alphabeticall
 
 ## Supported countries
 
-View the `data` directory to refer to a list corresponding to each of the countries.
+View the `data` directory to refer to a list corresponding to each of the countries. Number in the brackets means the amount of companies for that country that are recorded here.
 
-- Spain
+- Spain (488)
