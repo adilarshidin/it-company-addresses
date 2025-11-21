@@ -2060,8 +2060,6 @@
 
     Av. d'Espanya, 9, 07800 Eivissa, Illes Balears
 
-    orangeproteccion.datos@orange.com
-
     [LinkedIn](https://www.linkedin.com/company/france-telecom-spain/)
 
     [Instagram](https://www.instagram.com/orange_es/?hl=es)
@@ -2197,102 +2195,202 @@
 201. [Blesol Tech](http://www.blesoltech.com/)
 
     +34 658 14 87 07
+
     Edificio INEI-UCLM, Cam. Moledores, 13005 Ciudad Real
+
+    comercial@blesoltech.com
+
+    [LinkedIn](https://www.linkedin.com/company/blesol-tech/)
 
 202. [Eco & Tech](https://stagingbirdshop.es/)
 
     +34 678 66 18 38
+
     C. Luz, 11, 13003 Ciudad Real
+
+    luis@stagingbirdshop.es
 
 203. [Dimax Technology](https://www.dimaxtechnology.es/)
 
     C. Virgen de la Estrella, 9, 13004 Ciudad Real
 
+    info@dimaxdigital.com
+
+    [LinkedIn](https://www.linkedin.com/company/dimax-technology/)
+
+    [Instagram](https://www.instagram.com/dimaxtechnology)
+
 204. [RUBIERA TECHNOLOGIES SL](https://www.isystempronet.com/)
 
     +34 699 10 81 60
+
     C. Ramón y Cajal, 27, 13170 Miguelturra, Ciudad Real
+
+    info@isystempronet.com
 
 205. [Informática Valdepeñas - Gigafix - INPOST Amazon Hub Celeritas SEUR GLS Parcel Shop](https://www.informaticavaldepenas.es/)
 
     +34 654 34 84 43
+
     C. Juan Alcaide, 19, 13300 Valdepeñas, Ciudad Real
+
+    info@gigafix.es
 
 206. [BYD Albacete - Autos Carretero Tech - Grupo Carretero](http://www.carreterotech.com/)
 
     +34 926 96 65 60
+
     Av. Adeca, C. B, Esquina, 02007 Albacete
+
+    atencionalcliente@autoscarretero.com
+
+    [Instagram](https://www.instagram.com/byd_a.c.tech/)
 
 207. [Tech-Consulting | Ciberseguridad e Informática](https://techconsulting.es/)
 
     +34 968 95 83 98
+
     C. Zaplana, 11, entlo, 30510 Yecla, Murcia
+
+    info@techconsulting.es
+
+    [LinkedIn](https://www.linkedin.com/company/techconsulting/)
+
+    [Instagram](https://www.instagram.com/techconsulting.es)
+
+    [X](https://x.com/TechconsultingC)
 
 208. [Ganbaru Smartech](https://www.ganbaru.es/)
 
     +34 640 15 15 57
+
     C. Blasco Ibáñez, 16, 02004 Albacete
+
+    info@ganbaru.es
+
+    [LinkedIn](http://www.linkedin.com/company/ganbarugroup)
+
+    [Instagram](https://www.instagram.com/ganbarusmartech/)
 
 209. [Avanterra Tech - Concesionario Oficial John Deere](http://www.avanterratech.com/)
 
     +34 967 02 79 09
+
     Pol. Ind. Campollano, Av. de Gregorio Arcos, 46, 02007 Albacete
 
     +34 969 02 09 00
+
     Av. de la Constitución, 84, 16235 Iniesta, Cuenca
 
     +34 958 44 66 47
+
     Pol. Ind. la Rosa, C. Consorcio, 16-18-20, 18330 Chauchina, Granada
 
     +34 958 39 72 99
+
     poligono industrial iznamontes, M.1G-B-2, 18550 Iznalloz, Granada
 
     +34 964 10 00 00
+
     Carrer Oroval, 17, 12539 Les Alqueries, Castellón
+
+    dpd@avanterra.es
+
+    [LinkedIn](https://www.linkedin.com/company/avanterratech/)
+
+    [Instagram](https://www.instagram.com/avanterra_tech/)
 
 210. [OPINATOR Albacete](https://web.opinator.com/)
 
     +34 910 77 06 61
+
     P.º de la Innovación, 1, 02006 Albacete
+
+    info@opinator.com
+
+    [LinkedIn](https://www.linkedin.com/company/OPINATOR)
 
 211. [Erson Electrónica (Distribuidor oficial Digi)](http://www.ersonelectronica.com/)
 
     +34 967 44 52 56
+
     Av. Ramón y Cajal, 27, 02630 La Roda, Albacete
+
+    erson@ersonelectronica.com
+
+    [Instagram](https://www.instagram.com/ersontecnologia/)
 
 212. [Albacete Digital](http://www.albacetedigital.com/)
 
     +34 967 61 27 47
+
     C. Ríos Rosas, 20, 22, 02004 Albacete
+
+    albacetedigital@albacetedigital.com
+
+    [X](https://x.com/@albacetedigital)
 
 213. [Gamer Tech](http://gamertech.es/)
 
     +34 622 22 92 80
+
     Residencial, Bda. Núcleo Residencial el Parque, 12, 21720 Rociana del Condado, Huelva
+
+    crociana@gmail.com
+
+    [Instagram](https://www.instagram.com/gamertech_es/)
 
 214. [Hy-Tech Drilling España](http://www.hy-techdrilling.com/)
 
     +34 959 55 37 37
+
     Av. de la Constitución, 10, 21600 Valverde del Camino, Huelva
+
+    bill.krasnozon@hy-techdrilling.com
+
+    marco.garrido@hy-techdrilling.com
+
+    dwayne.ross@hy-techdrilling.com
+
+    joel.lesperance@hy-techdrilling.com
 
 215. [Chitech Onuba S.L.](http://www.chitech.es/)
 
     +34 959 77 04 77
+
     Pol. Ind. Naviluz, Nave, 28, 21007 Huelva
+
+    info@chitech.es
+
+    [LinkedIn](https://www.linkedin.com/company/chitech-mantenimiento/posts/?feedView=all)
 
 216. [La Lonja de la Innovación](https://lalonja.tech/)
 
     Puente Pt Muelle Levante, 1, 21001 Huelva
 
+    info@lalonja.tech
+
+    [LinkedIn](https://www.linkedin.com/company/lalonja-tech/about/?viewAsMember=true)
+
+    [Instagram](https://www.instagram.com/lalonjatech/)
+
 217. [Gumara Technology](https://www.comercialgumara.es/)
 
     +34 959 25 64 94
+
     C. Vasco Núñez de Balboa, 4, 21004 Huelva
+
+    info@comercialgumara.es
 
 218. [PH Technology](https://grupopht.com/)
 
     +34 959 35 61 37
+
     Carretera Nacional A-5000, Km 7,8, 21610 San Juan del Puerto, Huelva
+
+    info@grupopht.com
+
+    [LinkedIn](https://www.linkedin.com/company/sociedad-espa-ola-de-tratamiento-de-aguas/)
 
 219. [Soft Evolutions Technology](http://www.softevolutions.es/)
 
@@ -2302,6 +2400,8 @@
 
     Av. de la Constitucion, 50, Bajo A, 21710 Bollullos Par del Condado, Huelva
 
+    solen.soluciones.energeticas@gmail.com
+
 221. Hospital On Call Technologies S.L.
 
     Urbanización Hoyo 11, C. Veleta, 111, 21110 Aljaraque, Huelva
@@ -2309,81 +2409,158 @@
 222. [Knitink Technologies SL](https://knitink.com/)
 
     +34 959 53 39 64
+
     Parque Huelva empresarial, Nave 42, 21007 Huelva
+
+    info@knitink.com
+
+    [LinkedIn](https://www.linkedin.com/company/knitink-technologies)
 
 223. [Seabery Soluciones. SL](https://www.seaberyat.com/)
 
     +34 959 80 74 73
+
     Calle Dr. Emilio Haya Prats, 13, 21005 Huelva
+
+    info@seaberyat.com
+
+    [LinkedIn](https://www.linkedin.com/company/seabery/)
+
+    [Instagram](https://www.instagram.com/seaberyaugmentedtechnology/)
+
+    [X](https://x.com/Seabery)
 
 224. [Gm Technology](http://gmtechnology.net/)
 
     +34 954 68 03 17
+
     Poligono Industrial de la Isla, C. Río Viejo, 52, 41700 Dos Hermanas, Sevilla
+
+    hello@gmtechnology.net
+
+    [LinkedIn](https://www.linkedin.com/company/gmtechnology/)
+
+    [Instagram](https://www.instagram.com/gmtechnology_com/)
 
 225. [TECH SECURITY & CONTROL S.L](http://www.techsecuritycontrol.es/)
 
     +34 654 61 12 04
+
     C. Platino, 41909 Salteras, Sevilla
+
+    info@techsecuritycontrol.es
 
 226. [Academia Tech](https://academiatech.es/)
 
     +34 650 02 90 31
+
     C. Alonso Carrillo, 12, 41007 Sevilla
+
+    contacto@academiatech.com
 
 227. CAIXABANK TECH
 
     Av. de Kansas City, 9, 41007 Sevilla
 
+    soporte.discapacidad.accesibilidad@caixabank.com
+
+    [LinkedIn](https://www.linkedin.com/company/cabktech/)
+
 228. [Six.Tech](http://sixtech.es/)
 
     +34 623 17 97 09
+
     C. Silos, 85, 41500 Alcalá de Guadaíra, Sevilla
+
+    info@sixtech.es
+
+    [Instagram](https://www.instagram.com/sixtech.es/)
 
 229. [MARLO Tech](http://www.marlo.tech/)
 
     +34 955 45 96 47
+
     Av. Alcalde Luis Uruñuela, 1. Edificio FIBES, local 36, 41020 Sevilla
 
 230. [WabiTec](http://www.wabitec.es/)
 
     +34 600 30 10 44
+
     C. Antonia Díaz, 41940 Tomares, Sevilla
+
+    info@wabitec.es
+
+    [Instagram](https://www.instagram.com/wabitec/)
 
 231. [Urban Technology Sl](http://www.urbantech.es/)
 
     +34 955 54 91 65
+
     C. Aviación, 59, Norte, 41007 Sevilla
+
+    commercial@urbantech.es
+
+    info@urbantech.es
+
+    [X](https://x.com/Urbantech_es)
 
 232. Qashop Tech
 
     +34 902 75 08 48
+
     Av. de España, 55, 41704 Dos Hermanas, Sevilla
 
 233. Wellness TechGroup
 
     +34 954 15 17 06
+
     C. Santo Tomás, 13, Casco Antiguo, 41004 Sevilla
+
+    info@wellnesstg.com
+
+    tsaliba@wellnesstg.com
 
 234. [Midway Technologies](https://midway.tech/)
 
     +34 954 86 97 59
+
     C. Charles Darwin, N°3, 41092 Pabellón Monorrail, Sevilla
+
+    hola@midway.tech
+
+    [LinkedIn](https://www.linkedin.com/company/midway-technologies/)
+
+    [Instagram](https://www.instagram.com/midway_technologies/)
 
 235. [Technology Tachog](https://technologytachog.com/)
 
     +34 956 10 60 26
+
     Av. Alcalde Álvaro Domecq, 4, 11402 Jerez de la Frontera, Cádiz
+
+    technology@tachog.com
 
 236. [Valendra Tech SL](https://valendra.tech/)
 
     +34 614 45 45 79
+
     Av. de la Comedia, 11407 Jerez de la Frontera, Cádiz
+
+    collab@valendra.tech
+
+    [LinkedIn](https://www.linkedin.com/company/valendra)
+
+    [X](https://x.com/valendra_tech)
 
 237. [IERTEC SMART TECHNOLOGIES](http://iertec.com/)
 
     +34 919 93 12 57
+
     Av. de la Innovacion, 2, Edificio CITEA, 11591 Guadalcacín, Cádiz
+
+    contact@iertec.com
+
+    [LinkedIn](https://www.linkedin.com/company/iertec/)
 
 238. Black Hole Technologies
 
@@ -2392,53 +2569,134 @@
 239. [Dantia Technology S.L.](https://www.dantia.es/)
 
     +34 956 18 21 22
+
     C. de la Agricultura, 4, 11407 Jerez de la Frontera, Cádiz
+
+    [LinkedIn](https://es.linkedin.com/company/dantia-tecnologia)
+
+    [X](https://x.com/dantiatec)
 
 240. [XEBIA SOFTWARE TECHNOLOGY SPAIN SL](https://xebia.com/)
 
     +34 856 06 51 43
+
     C. Real, 40, 1º Izquierda, 11100 San Fernando, Cádiz
+
+    info@xebia.com
+
+    [LinkedIn](https://www.linkedin.com/company/xebia)
+
+    [Instagram](https://www.instagram.com/life_at_xebia_global)
+
+    [X](https://x.com/Xebia_Global/)
 
 241. [Movistar](https://www.movistar.es/)
 
+    te_atencion_web_movistar@telefonica.com
+
+    [Instagram](https://www.instagram.com/movistar_es/?hl=es)
+
+    [X](https://x.com/movistar_es)
+
 242. [Ultra Tech](https://es.wallapop.com/)
+
+    supportteam@wallapop.com
+
+    [Instagram](https://www.instagram.com/wallapop/)
+
+    [X](https://x.com/wallapop)
 
 243. [Proja Technology - Diseño web Jerez de la Frontera](https://www.projatechnology.com/)
 
     +34 635 17 82 82
+
     Av. Rafa Verdú, 11405 Jerez de la Frontera, Cádiz
 
+    info@projatechnology.com
+
 244. [Nexus E-Tech Services](https://www.nexusetech.com/)
+
+    contacto@nexustech.com
+
+    [LinkedIn](https://www.linkedin.com/company/nexus-e-tech)
+
+    [Instagram](https://www.instagram.com/nexusetech/)
 
 245. [Glomanal Tech](https://www.glomanal.com/)
 
     +34 644 97 03 35
+
     C. Río las Pasadas, 56, 29651 Las Lagunas de Mijas, Málaga
+
+    comercial@glomanal.com
+
+    [LinkedIn](https://www.linkedin.com/company/glomanal-tech/)
 
 246. [GlobátiKa TeCH](http://noatica.com/)
 
     +34 900 525 715
+
     C. Biarritz, 7, 29620 Torremolinos, Málaga
+
+    info@noatica.com
+
+    [LinkedIn](https://www.linkedin.com/company/noatica-programadores-informaticos/)
 
 247. [Pctech Informática](https://pctech.es/)
 
     +34 952 77 24 33
+
     Calle Pinsapo, 6, 29601 Marbella, Málaga
+
+    comercial@pctech.es
+
+    [Instagram](https://instagram.com/pctechinformatica)
+
+    [X](https://x.com/pctechmarbella)
 
 248. [Andalucia Tech](http://www.metromalaga.es/)
 
     +34 952 06 16 40
+
     Campanillas, 29010 Málaga
+
+    cta@corporaciontecnologica.com
+
+    [LinkedIn](https://www.linkedin.com/company/metro-de-m%C3%A1laga/?originalSubdomain=es)
+
+    [Instagram](https://www.instagram.com/metrodemalaga/)
+
+    [X](https://x.com/metromlgoficial)
 
 249. [Q-Tech Houses, division s.l.u.](https://q-tech.es/)
 
     +34 952 97 24 64
+
     Av. de los Vegas, 70, B, Cruz de Humilladero, 29006 Málaga
+
+    info@q-tech.es
+    
+    ventas@q-tech.es
+    
+    adm@q-tech.es 
+
+    [LinkedIn](https://es.linkedin.com/company/q-tech-group-houses-division-slu)
+
+    [Instagram](https://www.instagram.com/qtech_houses/)
+
+    [X](https://x.com/QTECH_GROUP)
 
 250. [LDA Audio Tech](http://www.lda-audiotech.com/)
 
     +34 952 02 88 05
+
     C. Severo Ochoa, 31, Campanillas, 29590 Málaga
+
+    info@lda-audiotech.com
+
+    [LinkedIn](https://www.linkedin.com/company/ldaaudiotech)
+
+    [X](https://x.com/LDAAudioTech)
 
 251. [AnyTech365 - AI Powered IT Security](https://anytech365.com/)
 
@@ -3587,3 +3845,11 @@
 
     +34 642 10 04 44
     C. Prior Mateo Tello, 20, 1, 35220 Telde, Las Palmas
+
+481. [Viernes 17](https://viernes17.es/)
+
+    lca@viernes17.es
+
+    [Instagram](https://www.instagram.com/Viernes17es/)
+
+    [X](https://x.com/Viernes17es/)
