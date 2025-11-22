@@ -2208,8 +2208,6 @@
 
     C. Luz, 11, 13003 Ciudad Real
 
-    luis@stagingbirdshop.es
-
 203. [Dimax Technology](https://www.dimaxtechnology.es/)
 
     C. Virgen de la Estrella, 9, 13004 Ciudad Real
@@ -2456,8 +2454,6 @@
 
     C. Alonso Carrillo, 12, 41007 Sevilla
 
-    contacto@academiatech.com
-
 227. CAIXABANK TECH
 
     Av. de Kansas City, 9, 41007 Sevilla
@@ -2497,8 +2493,6 @@
     +34 955 54 91 65
 
     C. Aviación, 59, Norte, 41007 Sevilla
-
-    commercial@urbantech.es
 
     info@urbantech.es
 
@@ -2616,8 +2610,6 @@
 
 244. [Nexus E-Tech Services](https://www.nexusetech.com/)
 
-    contacto@nexustech.com
-
     [LinkedIn](https://www.linkedin.com/company/nexus-e-tech)
 
     [Instagram](https://www.instagram.com/nexusetech/)
@@ -2701,7 +2693,16 @@
 251. [AnyTech365 - AI Powered IT Security](https://anytech365.com/)
 
     +34 951 39 09 13
+
     N-340, Km 189, Edf Loc 3, 29604 Marbella, Málaga
+
+    info@anytech365.com
+
+    [LinkedIn](https://www.linkedin.com/company/anytech365/)
+
+    [Instagram](https://www.instagram.com/anytech365_/)
+
+    [X](https://x.com/anytech365)
 
 252. [Marbella Tech Solutions](https://www.marbellatechsolutions.com/)
 
