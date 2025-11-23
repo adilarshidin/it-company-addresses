@@ -3463,264 +3463,598 @@ Tech parks (numerous companies with contact info):
 321. [Codiant Tech](https://www.codiant.tech/)
 
     +34 686 10 55 59
+
     Pl. Circular, 30008 Murcia
+
+    parewebs0@gmail.com
 
 322. [Sphaira Tech](https://sphairatech.com/)
 
     +34 623 91 17 72
+
     C. Federico Garcia Lorca, 3, 30009 Murcia
+
+    info@sphairatech.com
 
 323. [BOCARÉ TECH GENOMIC](https://bocarecosmetics.com/)
 
     +34 868 68 14 09
+
     Pol. Ind. Las Salinas, Av. Grecia, Parc. 5.1, 30840 Alhama de Murcia, Murcia
+
+    info@bocarecosmetics.com
+
+    [LinkedIn](https://www.linkedin.com/company/bocareoficial/)
+
+    [Facebook](https://www.facebook.com/Bocare.oficial)
+
+    [Instagram](https://www.instagram.com/bocare.oficial/)
+
+    [Youtube](https://www.youtube.com/channel/UCpGFxxhFC10iJOQKZyPpGgw)
+
+    [TikTok](https://www.tiktok.com/@bocare.techgenomic)
+
+    [Spotify](https://open.spotify.com/playlist/5SgMlxvFJ8SQkSmPznzo4B?si=4281f7f51792444c&nd=1&dlsi=3d56cc10f776408a)
 
 324. [SeniTech Satellite Technology](http://www.satnavupdatestore.co.uk/)
 
     A.P. de CORREOS, 103, 30890 Puerto Lumbreras, Murcia
 
+    [Facebook](https://www.facebook.com/senitech%20satellite%20technology)
+
+    [X](https://www.x.com/Senitech)
+
 325. [Nawter Tech](https://nawter.com/)
 
     +34 868 02 29 05
+
     Parque Industrial De Alhama, Av. Alemania, 30840 Alhama de Murcia, Murcia
+
+    info@nawter.com
+
+    [LinkedIn](https://www.linkedin.com/company/nawter/about/)
+
+    [Facebook](https://www.facebook.com/NawterTech)
+
+    [Instagram](https://www.instagram.com/nawter_tech/)
+
+    [Youtube](https://www.youtube.com/channel/UClooqqX0lhWwAIFpqnv69SA)
 
 326. [ICON tech](https://www.icontech.es/)
 
     +34 865 68 84 40
+
     C. Caballero de Rodas, 70, Local 3, 03182 Torrevieja, Alicante
+
+    torrevieja@icontech.es
+
+    [WhatsApp](https://wa.me/34865688440)
+
+    [Facebook](https://www.facebook.com/icontechtorrevieja/)
+
+    [Instagram](https://www.instagram.com/icontech.es/)
 
 327. [Alleria Dev & Tech](http://www.alleria.es/)
 
     +34 679 77 27 76
+
     C/ María Humildad Jiménez García, 18, 03183 Torrevieja, Alicante
+
+    info@aleria.tech
+
+    [Instagram](https://www.instagram.com/alleriadev)
 
 328. [Futura Teck de Murcia S.L.U.](https://futura.es/)
 
     +34 968 90 23 00
+
     Av. Alto de las Atalayas, 18, 30110 Cabezo de Torres, Murcia
+
+    info@futura.es
 
 329. [InfiniTech](https://www.infinitechspain.com/)
 
     +34 711 05 39 43
+
     CC Sophia, C. Isla Formentera, Local 10, 03189 La Regia, Alicante
 
-330. [E-life Techs](https://elifetechs.com/)
+    help@infinitechspain.com
+
+    [Facebook](https://www.facebook.com/profile.php?id=61559676655303)
+
+    [Instagram](https://www.instagram.com/infinitechspain)
+
+330. E-life Techs
 
     +34 968 29 91 67
+
     Av. Juan Carlos I, 43, Planta 7 puerta B, 30100 Murcia
 
 331. [CCI TORREVIEJA](https://ccitorrevieja.com/)
 
     +34 966 11 26 09
+
     C. Ramón Gallud, 76, 03181 Torrevieja, Alicante
+
+    hola@ccitorrevieja.es
 
 332. [The IT Place](https://www.theitplace.es/)
 
     +34 966 84 47 88
+
     Centro Comercial Rioja, C. Manuel de Falla, Local 18, 03189 Dehesa de Campoamor, Alicante
+
+    support@theitplace.es
 
 333. [Quesada Tech](http://quesadatech.com/)
 
     +34 966 72 16 99
+
     C. Turismo, 1, 03170 Cdad. Quesada, Alicante
+
+    info@quesadatech.com
+
+    [Facebook](https://www.facebook.com/Quesadatechrepaircentre)
+
+    [Instagram](https://www.instagram.com/quesadatech/)
 
 334. [TECH BIOMECHANICS](http://techcyclist.es/)
 
     +34 649 19 97 47
+
     Carrer Conrado del Campo, 86, local B, 03204 Elche, Alicante
+
+    techcyclistbiomecanica@gmail.com
 
 335. [Zanachi Tech Store](http://zanachi.com/)
 
     +34 965 48 74 56
-    calle Francisco Juan Follana, 58, C. Francisco J Follana, 58, 03340 Albatera, Alicante
+
+    calle Francisco Juan Follana, 58, C. Francisco J Follana, 58, 03340 Albatera, Alicantes
 
 336. [All Tech Plus](https://all-tech-plus.com/)
 
     +34 634 34 39 05
+
     Calle Topacio, Urb. Benimar II Manzana QSD 2 Buzon 33, 03170 Rojales Alicante
 
-337. [Verne TECH, antiguo Grupo Azeta](https://www.vernegroup.com/)
+    support@all-tech-plus.com
 
-    +34 881 88 59 17
-    C. Padre Rodes, 14, 03600 Elda, Alicante
+    [Whatsapp](https://wa.me/34634343905)
+
+    [Viber](viber://contact?number=%2B34634343905)
+
+    [Facebook](https://facebook.com/alltechplus)
+
+    [Youtube](https://www.youtube.com/alltechplusrojales?sub_confirmation=1)
+
+    [Github](https://github.com/buttonsbond/)
+
+337. [Viernes 17](https://viernes17.es/)
+
+    lca@viernes17.es
+
+    [Instagram](https://www.instagram.com/Viernes17es/)
+
+    [X](https://x.com/Viernes17es/)
 
 338. [Quetebe - Tecnología, Fibra y Energía](https://quetebe.com/)
 
     +34 965 99 99 17
+
     Av. Federíco García Lorca, 101, 03178 Benijófar, Alicante
 
-339. [InfiniTech](https://www.infinitechspain.com/)
+    info@quetebe.com
 
-    +34 711 05 39 43
-    CC Sophia, C. Isla Formentera, Local 10, 03189 La Regia, Alicante
+    help@quetebe.com
+
+    [LinkedIn](https://www.linkedin.com/company/69994609/admin/)
+
+    [Facebook](https://www.facebook.com/quetebe)
+
+    [Instagram](https://www.instagram.com/quetebe_com/)
+
+339. New Tech Team Canarias SLL
+
+    +34 642 10 04 44
+
+    C. Prior Mateo Tello, 20, 1, 35220 Telde, Las Palmas
 
 340. [EvotechPro](https://evotechpro.es/)
 
     +34 622 49 82 47
+
     C. Fulgencio Miñano, 12, 30500 Molina de Segura, Murcia
+
+    [Whatsapp](https://api.whatsapp.com/send?text=https%3A%2F%2Fevotechpro.es%2F)
+
+    [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://evotechpro.es/)
+
+    [X](https://x.com/share?url=https://evotechpro.es/)
 
 341. [TECH & COM ALICANTE](http://techandcom.org/)
 
     +34 965 27 00 58
+
     Carrer Lope de Vega, 54, Bajo, Local 2, 03690 San Vicente del Raspeig, Alicante
+
+    INFO@TECHANDCOM.ES
 
 342. [Solarea TECH](https://www.solareatech.com/)
 
     +34 669 34 86 07
+
     Calle Artesanos, 12, 03690 San Vicente del Raspeig, Alicante
+
+    info@solareatech.com
+
+    [LinkedIn](https://www.linkedin.com/company/solarea-tech/)
+
+    [Facebook](https://www.facebook.com/people/Solarea-Tech/100089855888147/)
+
+    [Instagram](https://www.instagram.com/solareatech/)
 
 343. [Konsultores Tech](https://konsultores.tech/)
 
     +34 865 44 30 01
+
     Av. del Dr. Jiménez Díaz, 7, 03005 Alicante
+
+    info@konsultores.tech
+
+    [Whatsapp](https://wa.me/34645764929?text=Hola%20estoy%20en%20la%20Web%20de%20HIOPOS%20y%20tengo%20una%20duda%20con...)
+
+    [LinkedIn](https://www.linkedin.com/company/konsultorestech/)
+
+    [Facebook](https://www.facebook.com/Konsultores.Tech)
+
+    [Instagram](https://www.instagram.com/konsultores.tech/)
+
+    [X](https://x.com/KonsultoresTech)
+
+    [Youtube](https://www.youtube.com/channel/UC_b1Gthd6rBTWWADq_UbT8w)
 
 344. [MindDen Soft Tech](http://www.mindden.com/)
 
     +34 965 34 97 70
+
     Av. Salamanca, 14, 03005 Alicante
 
-345. [La Siesta Technologies](http://lasiesta.tech/)
+    info@mindden.com
+
+    [LinkedIn](https://www.linkedin.com/company/mindden/)
+
+    [Facebook](https://www.facebook.com/Minddensofttech/)
+
+345. La Siesta Technologies
 
     Pl. de la Mercè, 7, 5ºIzq, 03202 Elche, Alicante
 
 346. [prokubix tech](http://prokubix.com/)
 
     +34 966 30 60 56
+
     Pl. Navarro Rodrigo, 4, 03007 Alicante
+
+    info@prokubix.com
 
 347. [Alien PCs](http://www.alienpcs.es/)
 
     +34 677 63 37 00
+
     Avenida de Benidorm 11, Buzon, 44, 03792 Parcent, Alicante
 
-348. [ZIP TECHNOLOGY CUSTOMIZED](http://zipperztc.com/)
+    sales@alienpcs.es
+
+    [LinkedIn](https://es.linkedin.com/company/alien-pcs?trk=public_profile_topcard-current-company)
+
+    [Facebook](https://www.facebook.com/AlienPCs)
+
+    [Instagram](https://www.instagram.com/alienpcs/?hl=en)
+
+    [X](https://x.com/computers_spain?lang=en)
+
+    [Youtube](https://www.youtube.com/channel/UCaP8Hz-8xtQFngvH_Y3DNMA)
+
+348. ZIP TECHNOLOGY CUSTOMIZED
 
     +34 622 17 72 04
+
     Calle Serverino Albarracín n. 8 Offices Incub, 03804, Alicante
 
 349. [MITTEN TECH](https://www.mitten.es/)
 
     +34 962 97 86 91
+
     Carrer del Calvari, 29, 46612 Corbera, Valencia
+
+    info@mitten.es
 
 350. [Telitec](http://www.telitec.com/)
 
     +34 965 74 34 73
+
     Ctra. Moraira a Calpe, 82B, 03724 Teulada, Alicante
+
+    customerservices@telitec.net
+
+    support@telitec.net
+
+    [Whatsapp](https://wa.me/34634334336)
+
+    [LinkedIn](https://www.linkedin.com/company/telitec-communications-sl/)
+
+    [Facebook](https://www.facebook.com/telitecofficial)
+
+    [Instagram](https://www.instagram.com/teliteccomms/?hl=en)
+
+    [X](https://x.com/telitec)
+
+    [Youtube](https://www.youtube.com/channel/UCWr3zsuh4tN-OhZfli36OVA/featured)
 
 351. [Erum Tech Lab (Innovación)](https://erumgroup.com/)
 
     +34 965 33 08 17
+
     Carretera Banyeres, Km.1,5, 03802 Alcoi, Alicante
+
+    erum@erumgroup.com
+
+    ventas@erumgroup.com
+
+    [LinkedIn](https://www.linkedin.com/company/erumgroup/)
+
+    [Facebook](https://www.facebook.com/plasticoserum/)
+
+    [Instagram](https://www.instagram.com/erumgroup/)
+
+    [X](https://x.com/Erumgroup)
 
 352. [NMA NAUTIC TECH SLU](http://www.nmanautica.com/)
 
     +34 966 29 22 71
+
     Carrer de Xàbia, 1, 03700 Dénia, Alicante
+
+    info@nmanautica.com
+
+    administracion@nmanautica.com
+
+    [LinkedIn](https://www.linkedin.com/company/nma-nautic-tech/)
+
+    [Facebook](https://www.facebook.com/NMA-N%C3%A1utica-SLU-560193944496831)
+
+    [Instagram](https://www.instagram.com/seapixspain/)
 
 353. [HUMAN TECHNOLOGIES - Tailored Services](http://www.ht-stores.net/)
 
     +34 962 28 37 27
+
     Carrer Honorat Joan, 6, 46800 Xàtiva, Valencia
 
 354. [Twizy-tech moraira](https://www.twizytech-moraira.com/)
 
     +34 652 24 80 45
+
     C. Alhama, 16, 03724 Teulada, Alicante
 
-355. [Tumovil Albir](https://tumovilalbir.es/)
+    info@twizytech-moraira.com
+
+    [Whatsapp](https://api.whatsapp.com/send?phone=34652248045)
+
+    [Facebook](https://facebook.com/share/17Tah2B7kb/)
+
+    [Instagram](https://instagram.com/twizytech_moraira?igsh=eHhnZDhiNzNrbDJv)
+
+355. Tumovil Albir
 
     +34 604 36 83 98
+
     Camí Vell d'Altea, 34, local 4, 03581 L'Albir, Alicante
 
 356. [Smart Tecnològic](http://www.smarttecnologic.com/)
 
     +34 966 46 00 64
+
     Carrer Príncep d'Astúries, 46, 03730 Xàbia, Alicante
+
+    info@smarttecnologic.com
 
 357. Torres Technologies
 
     +34 656 25 14 38
+
     Carrer de la Reina, 21, 2, 4, 46800 Xàtiva, Valencia
 
 358. [Code X Technologies S.L.](http://www.codex-tech.com/)
 
     +34 661 61 93 64
+
     Camí Carrasqueral, 7, 46240 Carlet, Valencia
 
-359. [TopTechFIX](http://www.toptechfix.com/)
+    info@codex-tech.com
+
+359. TopTechFIX
 
     +34 622 68 23 50
+
     Carrer Cervantes, 1, 03770 El Verger, Alicante
 
 360. [Lasertech Javea](https://lasertech.es/)
 
     +34 620 29 84 18
+
     Camí de les Barranqueres, 2, 03737 Xàbia, Alicante
+
+    javea@lasertech.es
+
+    [Facebook](https://www.facebook.com/LasertechJavea)
+
+    [Instagram](https://www.instagram.com/lasertechjavea/)
 
 361. [HIGH TECH LUBRICANT OIL SL](http://www.htlubricantoils.com/)
 
     +34 963 68 69 74
+
     Av. de la Foia, 10, 46440 Almussafes, Valencia
+
+    htlo@htlubricantoils.com
 
 362. [Tech&Process, S.L.](http://www.oqotech.com/)
 
     +34 902 99 51 29
+
     C. Sant Tomàs, 2, 03801 Alcoi, Alicante
+
+    info@oqotech.com
+
+    [LinkedIn](https://es.linkedin.com/company/oqotech)
+
+    [Instagram](https://www.instagram.com/oqotech/)
+
+    [X](https://x.com/oqotech)
 
 363. [Fitness Tech](http://www.fitnesstech.es/)
 
     +34 960 10 63 94
+
     Carrer Poniente, 2, Oficina 39 y 40, 46394 Riba-roja de Túria, Valencia
+
+    info@fitnesstech.es
+
+    [LinkedIn](https://www.linkedin.com/company/fitnesstech/?originalSubdomain=es)
+
+    [Instagram](https://www.instagram.com/fitnesstech.es/?hl=en)
+
+    [TikTok](https://www.tiktok.com/@fitnesstechoficial?lang=en)
+
+    [Youtube](https://www.youtube.com/@fitnesstechoficial)
 
 364. [Rvision Tech](https://www.rvisiontech.com/)
 
     +34 961 02 95 20
+
     Carrer Pintor Joaquim Sorolla, 12, bajo, 46120 Alboraya, Valencia
+
+    info@rvisiontech.com
+
+    [LinkedIn](https://www.linkedin.com/company/robotics-vision-technologies/)
+
+    [Facebook](https://www.facebook.com/rvisiontech)
+
+    [Instagram](https://www.instagram.com/rvisiontech/)
+
+    [X](https://x.com/RV_TECHNOLOGIES)
 
 365. [Cad Tech Iberica S.A.](http://www.cadtech.es/)
 
     +34 963 47 68 51
+
     Calle Narciso Monturiol, 5, Edificio SGS Planta 2 Parque Tecnológico Paterna, 46980 Paterna
+
+    info@cadtech.es
+
+    [LinkedIn](https://www.linkedin.com/company/cadtech?trk=biz-companies-cym)
+
+    [Youtube](https://www.youtube.com/user/CadTechIberica)
+
+    [RSS](https://cadtech.es/feed/)
 
 366. [Motos Tech](https://motos.tech/)
 
     +34 601 18 91 97
+
     Av. de l'Oest, 26, 4, Ciutat Vella, 46001 Valencia
 
 367. [BAUUMAN TECH, S.L.](http://www.bauuman.com/)
 
     +34 663 24 53 24
+
     C/ BAJO VINALOPÓ, S/N, Ctra. Madrid Valencia Nac II, KM. 346, 3, 46920, Valencia
+
+    web@bauuman.com
+
+    [Facebook](https://www.facebook.com/pages/Bauuman-tech/809486202463654)
+
+    [Instagram](https://www.instagram.com/bauuman.tech/)
+
+    [X](https://x.com/bauumantech)
+
+    [Youtube](https://www.youtube.com/channel/UCIiG6Yk16PuktTOO2ZETpVg)
+
+    [Pinterest](https://es.pinterest.com/tbauuman/bauuman/)
 
 368. [AIberia Tech](https://aiberiatech.com/)
 
     Av. Mare Nostrum, 46120 Alboraya, Valencia
 
+    [Whatsapp](https://wa.me/34643639001?text=%C2%A1Hola!%20Vengo%20de%20vuestra%20web%20y%20me%20gustar%C3%ADa%20m%C3%A1s%20informaci%C3%B3n.)
+
+    [LinkedIn](https://www.linkedin.com/company/aiberia-tech/)
+
+    [Instagram](https://www.instagram.com/aiberiatech)
+
+    [Youtube](http://www.youtube.com/channel/UC0Hi151Z2wve5W-XcWl0Vgg)
+
 369. [NP Tech.](https://salvanpardo.ueniweb.com/)
 
     +34 684 08 56 38
+
     Ps, 10, 46389 Turís, Valencia
+
+    [Facebook](https://www.facebook.com/share.php?u=https%3A//salvanpardo.ueniweb.com&title=NP%20Tech.)
+
+    [X](https://x.com/intent/tweet?text=NP%20Tech.&url=https%3A//salvanpardo.ueniweb.com)
 
 370. [Kenmei Technologies](http://www.kenmei.ai/)
 
     +34 960 07 01 72
+
     Parque Empresarial Táctica, C. del Corretger, 21, 46980 Paterna, Valencia
+
+    contact@kenmei.ai
+
+    [LinkedIn](https://www.linkedin.com/company/kenmei-technologies/)
 
 371. Team&Talent Technologies SCP
 
     +34 928 93 92 71
+
     C. Francisco Gourié, 107, 35002 Las Palmas de Gran Canaria, Las Palmas
 
 372. [Baintex Technologies SL](https://www.baintex.com/)
 
     +34 659 62 48 31
+
     Avinguda de Serra, 206, 46130 Massamagrell, Valencia
+
+    info@baintex.com
+
+    [LinkedIn](https://www.linkedin.com/company/baintex-technologies/)
+
+    [Facebook](https://www.facebook.com/baintex.technologies/)
+
+    [Instagram](https://www.instagram.com/baintex.technologies/?hl=es)
+
+    [X](https://x.com/Baintex)
+
+    [Youtube](https://www.youtube.com/channel/UCxNIEy24ISix9_hzBYM8-Ig)
 
 373. [GFT Technologies IT Consulting, S.L.U.](https://www.gft.com/es/)
 
     +34 963 01 25 41
+
     C/ de Roger de Llòria, 19, planta 5ª, Ciutat Vella, 46002 Valencia
+
+    [LinkedIn](https://www.linkedin.com/company/gft-technologies-espana)
+
+    [Facebook](https://www.facebook.com/gfttechnologiesespana)
+
+    [Instagram](https://www.instagram.com/gft_technologies_espana/)
+
+    [X](https://www.x.com/gft_es)
+
+    [Youtube](https://www.youtube.com/@gft-technologies)
 
 374. [Vidext Technologies S.L.](https://www.vidext.io/)
 
@@ -4250,16 +4584,3 @@ Tech parks (numerous companies with contact info):
 
     +34 661 64 62 20
     C. Lomo la Plana, 35019 Las Palmas de Gran Canaria, Las Palmas
-
-480. [New Tech Team Canarias SLL](http://newtechteamcanarias.com/)
-
-    +34 642 10 04 44
-    C. Prior Mateo Tello, 20, 1, 35220 Telde, Las Palmas
-
-481. [Viernes 17](https://viernes17.es/)
-
-    lca@viernes17.es
-
-    [Instagram](https://www.instagram.com/Viernes17es/)
-
-    [X](https://x.com/Viernes17es/)
