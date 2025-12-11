@@ -668,7 +668,69 @@
       "link": "https://agentor.fi/"
     }
   },
-  "Norway": {
-    
+  "norway": {
+    "rekrutteringshusetmork": {
+      "link": "https://www.rekrutteringshusetmork.no/"
+    },
+    "hudsonnordic": {
+      "link": "https://hudsonnordic.no/"
+    },
+    "randstad": {
+      "link": "https://www.randstad.no/"
+    },
+    "nordicjobsworldwide" :{
+      "link": "https://www.nordicjobsworldwide.com/"
+    },
+    "amby": {
+      "link": "https://www.amby.com/"
+    },
+    "norgesra": {
+      "link": "https://www.norgesra.no/"
+    },
+    "bjorgfjell": {
+      "link": "https://bjorgfjell.no/"
+    },
+    "skyrekruttering": {
+      "link": "https://skyrekruttering.no/"
+    },
+    "nordvestbemanning": {
+      "link": "http://www.nordvestbemanning.no/"
+    },
+    "seafoodpeople": {
+      "link": "https://seafoodpeople.net/"
+    },
+    "mde-group": {
+      "link": "https://www.mde-group.com/"
+    },
+    "karriereflyt": {
+      "link": "https://www.karriereflyt.no/"
+    },
+    "eterni": {
+      "link": "https://www.eterni.no/"
+    },
+    "eminentpeople": {
+      "link": "https://eminentpeople.no/"
+    },
+    "time2staff": {
+      "link": "https://www.time2staff.no/"
+    },
+    "onoffbemanning": {
+      "link": "https://www.onoffbemanning.no/"
+    },
+    "ascender": {
+      "link": "https://www.ascender.no/"
+    },
+    "skutevikenpersonell": {
+      "link": "https://www.skutevikenpersonell.no/"
+    },
+    "mosaker": {
+      "link": "https://mosaker.no/"
+    },
+    "bemex-rekruttering": {
+      "link": "https://www.bemex-rekruttering.no/"
+    },
+    "temp-team": {
+      "link": "https://temp-team.no/"
+    }
   }
 }
