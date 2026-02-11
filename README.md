@@ -18,5 +18,3 @@ View the `data` directory to refer to a list corresponding to each of the countr
 - [Spain](https://github.com/adilarshidin/it-company-contacts/blob/master/data/spain.json)
 
 ### Reminders
-
-* Started collecting all socials from Spain 258
